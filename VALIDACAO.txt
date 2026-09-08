@@ -1,0 +1,7 @@
+Aula 1: objetivas=30 dissertativas=15 flashcards=15
+Aula 2: objetivas=30 dissertativas=15 flashcards=15
+Aula 3: objetivas=30 dissertativas=15 flashcards=15
+Aula 4: objetivas=30 dissertativas=15 flashcards=15
+Aula 5: objetivas=30 dissertativas=15 flashcards=15
+Aula 6: objetivas=30 dissertativas=15 flashcards=15
+TOTAL: objetivas=180 dissertativas=90 flashcards=90

@@ -1,0 +1,520 @@
+{
+  "lecture": 3,
+  "title": "Aula 3 — Índices de Atividade, Ciclos e Capital de Giro",
+  "objectives": [
+    {
+      "id": 1,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente PME?",
+      "options": {
+        "A": "Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes",
+        "B": "Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados",
+        "C": "Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção",
+        "D": "Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo"
+      },
+      "answer": "B",
+      "explanation": "PME: Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados."
+    },
+    {
+      "id": 2,
+      "q": "Qual é a interpretação mais adequada ao utilizar PME em uma análise?",
+      "options": {
+        "A": "Interpretar PME sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar PME de acordo com sua finalidade: Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar PME apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados."
+    },
+    {
+      "id": 3,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente PMF?",
+      "options": {
+        "A": "Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção",
+        "B": "Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial",
+        "C": "abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas",
+        "D": "Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro"
+      },
+      "answer": "A",
+      "explanation": "PMF: Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção."
+    },
+    {
+      "id": 4,
+      "q": "Qual é a interpretação mais adequada ao utilizar PMF em uma análise?",
+      "options": {
+        "A": "Usar PMF de acordo com sua finalidade: Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção.",
+        "B": "Usar PMF apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar PMF sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção."
+    },
+    {
+      "id": 5,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente PMV?",
+      "options": {
+        "A": "mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos",
+        "B": "Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial",
+        "C": "Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional",
+        "D": "ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la"
+      },
+      "answer": "B",
+      "explanation": "PMV: Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial."
+    },
+    {
+      "id": 6,
+      "q": "Qual é a interpretação mais adequada ao utilizar PMV em uma análise?",
+      "options": {
+        "A": "Usar PMV de acordo com sua finalidade: Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar PMV sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar PMV apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial."
+    },
+    {
+      "id": 7,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente PMC?",
+      "options": {
+        "A": "mede o tempo médio para transformar vendas a prazo em recebimentos",
+        "B": "Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante",
+        "C": "caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento",
+        "D": "Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional"
+      },
+      "answer": "D",
+      "explanation": "PMC: Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional."
+    },
+    {
+      "id": 8,
+      "q": "Qual é a interpretação mais adequada ao utilizar PMC em uma análise?",
+      "options": {
+        "A": "Usar PMC apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar PMC de acordo com sua finalidade: Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional.",
+        "C": "Interpretar PMC sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional."
+    },
+    {
+      "id": 9,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Prazo Médio de Cobrança?",
+      "options": {
+        "A": "Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes",
+        "B": "reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro",
+        "C": "mede o tempo médio para transformar vendas a prazo em recebimentos",
+        "D": "Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo"
+      },
+      "answer": "C",
+      "explanation": "Prazo Médio de Cobrança: mede o tempo médio para transformar vendas a prazo em recebimentos."
+    },
+    {
+      "id": 10,
+      "q": "Qual é a interpretação mais adequada ao utilizar Prazo Médio de Cobrança em uma análise?",
+      "options": {
+        "A": "Interpretar Prazo Médio de Cobrança sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Prazo Médio de Cobrança de acordo com sua finalidade: mede o tempo médio para transformar vendas a prazo em recebimentos.",
+        "C": "Usar Prazo Médio de Cobrança apenas como substituto de todas as demais análises financeiras.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, mede o tempo médio para transformar vendas a prazo em recebimentos."
+    },
+    {
+      "id": 11,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente PMPF?",
+      "options": {
+        "A": "Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo",
+        "B": "índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa",
+        "C": "Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro",
+        "D": "abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas"
+      },
+      "answer": "A",
+      "explanation": "PMPF: Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo."
+    },
+    {
+      "id": 12,
+      "q": "Qual é a interpretação mais adequada ao utilizar PMPF em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Interpretar PMPF sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar PMPF apenas como substituto de todas as demais análises financeiras.",
+        "D": "Usar PMPF de acordo com sua finalidade: Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo."
+    },
+    {
+      "id": 13,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Ciclo Operacional?",
+      "options": {
+        "A": "mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos",
+        "B": "abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas",
+        "C": "ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la",
+        "D": "Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados"
+      },
+      "answer": "B",
+      "explanation": "Ciclo Operacional: abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas."
+    },
+    {
+      "id": 14,
+      "q": "Qual é a interpretação mais adequada ao utilizar Ciclo Operacional em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Ciclo Operacional apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar Ciclo Operacional sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Ciclo Operacional de acordo com sua finalidade: abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas."
+    },
+    {
+      "id": 15,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Ciclo Financeiro?",
+      "options": {
+        "A": "mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos",
+        "B": "Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante",
+        "C": "Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção",
+        "D": "caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento"
+      },
+      "answer": "A",
+      "explanation": "Ciclo Financeiro: mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos."
+    },
+    {
+      "id": 16,
+      "q": "Qual é a interpretação mais adequada ao utilizar Ciclo Financeiro em uma análise?",
+      "options": {
+        "A": "Usar Ciclo Financeiro de acordo com sua finalidade: mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Ciclo Financeiro apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar Ciclo Financeiro sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos."
+    },
+    {
+      "id": 17,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente CCL?",
+      "options": {
+        "A": "reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro",
+        "B": "Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial",
+        "C": "Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante",
+        "D": "Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes"
+      },
+      "answer": "C",
+      "explanation": "CCL: Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante."
+    },
+    {
+      "id": 18,
+      "q": "Qual é a interpretação mais adequada ao utilizar CCL em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar CCL de acordo com sua finalidade: Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante.",
+        "C": "Usar CCL apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar CCL sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante."
+    },
+    {
+      "id": 19,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente NCG?",
+      "options": {
+        "A": "índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa",
+        "B": "Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional",
+        "C": "Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro",
+        "D": "Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes"
+      },
+      "answer": "D",
+      "explanation": "NCG: Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes."
+    },
+    {
+      "id": 20,
+      "q": "Qual é a interpretação mais adequada ao utilizar NCG em uma análise?",
+      "options": {
+        "A": "Usar NCG de acordo com sua finalidade: Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes.",
+        "B": "Usar NCG apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar NCG sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes."
+    },
+    {
+      "id": 21,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente CGP?",
+      "options": {
+        "A": "Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados",
+        "B": "ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la",
+        "C": "mede o tempo médio para transformar vendas a prazo em recebimentos",
+        "D": "Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro"
+      },
+      "answer": "D",
+      "explanation": "CGP: Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro."
+    },
+    {
+      "id": 22,
+      "q": "Qual é a interpretação mais adequada ao utilizar CGP em uma análise?",
+      "options": {
+        "A": "Usar CGP de acordo com sua finalidade: Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro.",
+        "B": "Usar CGP apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar CGP sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro."
+    },
+    {
+      "id": 23,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Efeito Tesoura?",
+      "options": {
+        "A": "Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo",
+        "B": "ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la",
+        "C": "caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento",
+        "D": "Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção"
+      },
+      "answer": "B",
+      "explanation": "Efeito Tesoura: ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la."
+    },
+    {
+      "id": 24,
+      "q": "Qual é a interpretação mais adequada ao utilizar Efeito Tesoura em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Efeito Tesoura de acordo com sua finalidade: ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la.",
+        "C": "Interpretar Efeito Tesoura sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Efeito Tesoura apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la."
+    },
+    {
+      "id": 25,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Overtrade?",
+      "options": {
+        "A": "caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento",
+        "B": "abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas",
+        "C": "Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial",
+        "D": "reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro"
+      },
+      "answer": "A",
+      "explanation": "Overtrade: caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento."
+    },
+    {
+      "id": 26,
+      "q": "Qual é a interpretação mais adequada ao utilizar Overtrade em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Overtrade apenas como substituto de todas as demais análises financeiras.",
+        "C": "Usar Overtrade de acordo com sua finalidade: caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento.",
+        "D": "Interpretar Overtrade sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento."
+    },
+    {
+      "id": 27,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Gestão de Prazos?",
+      "options": {
+        "A": "reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro",
+        "B": "mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos",
+        "C": "Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional",
+        "D": "índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa"
+      },
+      "answer": "A",
+      "explanation": "Gestão de Prazos: reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro."
+    },
+    {
+      "id": 28,
+      "q": "Qual é a interpretação mais adequada ao utilizar Gestão de Prazos em uma análise?",
+      "options": {
+        "A": "Usar Gestão de Prazos apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Gestão de Prazos de acordo com sua finalidade: reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro.",
+        "C": "Interpretar Gestão de Prazos sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro."
+    },
+    {
+      "id": 29,
+      "q": "Na Índices de Atividade, Ciclos e Capital de Giro, qual alternativa descreve corretamente Integração Atividade-Liquidez?",
+      "options": {
+        "A": "mede o tempo médio para transformar vendas a prazo em recebimentos",
+        "B": "índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa",
+        "C": "Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante",
+        "D": "Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados"
+      },
+      "answer": "B",
+      "explanation": "Integração Atividade-Liquidez: índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa."
+    },
+    {
+      "id": 30,
+      "q": "Qual é a interpretação mais adequada ao utilizar Integração Atividade-Liquidez em uma análise?",
+      "options": {
+        "A": "Usar Integração Atividade-Liquidez apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Integração Atividade-Liquidez sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Integração Atividade-Liquidez de acordo com sua finalidade: índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa."
+    }
+  ],
+  "essays": [
+    {
+      "id": 1,
+      "q": "Explique o conceito de PME e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "PME Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 2,
+      "q": "Explique o conceito de PMF e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "PMF Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 3,
+      "q": "Explique o conceito de PMV e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "PMV Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 4,
+      "q": "Explique o conceito de PMC e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "PMC Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 5,
+      "q": "Explique o conceito de Prazo Médio de Cobrança e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Prazo Médio de Cobrança mede o tempo médio para transformar vendas a prazo em recebimentos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 6,
+      "q": "Explique o conceito de PMPF e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "PMPF Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 7,
+      "q": "Explique o conceito de Ciclo Operacional e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Ciclo Operacional abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 8,
+      "q": "Explique o conceito de Ciclo Financeiro e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Ciclo Financeiro mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 9,
+      "q": "Explique o conceito de CCL e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "CCL Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 10,
+      "q": "Explique o conceito de NCG e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "NCG Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 11,
+      "q": "Explique o conceito de CGP e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "CGP Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 12,
+      "q": "Explique o conceito de Efeito Tesoura e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Efeito Tesoura ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 13,
+      "q": "Explique o conceito de Overtrade e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Overtrade caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 14,
+      "q": "Explique o conceito de Gestão de Prazos e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Gestão de Prazos reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 15,
+      "q": "Explique o conceito de Integração Atividade-Liquidez e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Integração Atividade-Liquidez índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "O que é PME?",
+      "back": "PME Prazo Médio de Estocagem indica por quanto tempo, em média, os estoques permanecem armazenados."
+    },
+    {
+      "id": 2,
+      "front": "O que é PMF?",
+      "back": "PMF Prazo Médio de Fabricação representa o tempo médio necessário ao processo de produção."
+    },
+    {
+      "id": 3,
+      "front": "O que é PMV?",
+      "back": "PMV Prazo Médio de Vendas relaciona o giro das vendas com o período necessário para realização comercial."
+    },
+    {
+      "id": 4,
+      "front": "O que é PMC?",
+      "back": "PMC Prazo Médio de Compras ajuda a avaliar a dinâmica das compras e sua relação com o ciclo operacional."
+    },
+    {
+      "id": 5,
+      "front": "O que é Prazo Médio de Cobrança?",
+      "back": "Prazo Médio de Cobrança mede o tempo médio para transformar vendas a prazo em recebimentos."
+    },
+    {
+      "id": 6,
+      "front": "O que é PMPF?",
+      "back": "PMPF Prazo Médio de Pagamento a Fornecedores mede o tempo médio disponível para pagamento das compras a prazo."
+    },
+    {
+      "id": 7,
+      "front": "O que é Ciclo Operacional?",
+      "back": "Ciclo Operacional abrange o período entre aquisição de insumos ou mercadorias e o recebimento das vendas."
+    },
+    {
+      "id": 8,
+      "front": "O que é Ciclo Financeiro?",
+      "back": "Ciclo Financeiro mede o período em que recursos próprios ou de terceiros ficam comprometidos entre pagamentos e recebimentos."
+    },
+    {
+      "id": 9,
+      "front": "O que é CCL?",
+      "back": "CCL Capital Circulante Líquido corresponde, de forma básica, ao Ativo Circulante menos o Passivo Circulante."
+    },
+    {
+      "id": 10,
+      "front": "O que é NCG?",
+      "back": "NCG Necessidade de Capital de Giro representa recursos necessários para financiar as operações correntes."
+    },
+    {
+      "id": 11,
+      "front": "O que é CGP?",
+      "back": "CGP Capital de Giro Próprio identifica a parcela de recursos próprios destinada ao financiamento do giro."
+    },
+    {
+      "id": 12,
+      "front": "O que é Efeito Tesoura?",
+      "back": "Efeito Tesoura ocorre quando a necessidade de capital de giro cresce mais rapidamente do que as fontes disponíveis para financiá-la."
+    },
+    {
+      "id": 13,
+      "front": "O que é Overtrade?",
+      "back": "Overtrade caracteriza expansão excessiva das operações sem capital de giro suficiente para sustentar o crescimento."
+    },
+    {
+      "id": 14,
+      "front": "O que é Gestão de Prazos?",
+      "back": "Gestão de Prazos reduzir estoques e cobranças e negociar prazos adequados com fornecedores pode melhorar o ciclo financeiro."
+    },
+    {
+      "id": 15,
+      "front": "O que é Integração Atividade-Liquidez?",
+      "back": "Integração Atividade-Liquidez índices de atividade ajudam a explicar por que uma empresa pode ter liquidez contábil e ainda enfrentar pressão de caixa."
+    }
+  ]
+}

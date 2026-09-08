@@ -1,0 +1,520 @@
+{
+  "lecture": 6,
+  "title": "Aula 6 — Insolvência, DFC, DMPL, DVA e Parecer",
+  "objectives": [
+    {
+      "id": 1,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Análise Discriminante?",
+      "options": {
+        "A": "é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores",
+        "B": "evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade",
+        "C": "utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore",
+        "D": "é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros"
+      },
+      "answer": "A",
+      "explanation": "Análise Discriminante: é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores."
+    },
+    {
+      "id": 2,
+      "q": "Qual é a interpretação mais adequada ao utilizar Análise Discriminante em uma análise?",
+      "options": {
+        "A": "Interpretar Análise Discriminante sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Análise Discriminante de acordo com sua finalidade: é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Análise Discriminante apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores."
+    },
+    {
+      "id": 3,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Modelo de Altman?",
+      "options": {
+        "A": "demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período",
+        "B": "utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore",
+        "C": "estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta",
+        "D": "é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros"
+      },
+      "answer": "B",
+      "explanation": "Modelo de Altman: utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore."
+    },
+    {
+      "id": 4,
+      "q": "Qual é a interpretação mais adequada ao utilizar Modelo de Altman em uma análise?",
+      "options": {
+        "A": "Usar Modelo de Altman apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Modelo de Altman de acordo com sua finalidade: utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar Modelo de Altman sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore."
+    },
+    {
+      "id": 5,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Modelo de Kanitz?",
+      "options": {
+        "A": "evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade",
+        "B": "é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis",
+        "C": "é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros",
+        "D": "evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros"
+      },
+      "answer": "C",
+      "explanation": "Modelo de Kanitz: é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros."
+    },
+    {
+      "id": 6,
+      "q": "Qual é a interpretação mais adequada ao utilizar Modelo de Kanitz em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Interpretar Modelo de Kanitz sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Modelo de Kanitz de acordo com sua finalidade: é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros.",
+        "D": "Usar Modelo de Kanitz apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros."
+    },
+    {
+      "id": 7,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Modelo de Elizabetsky?",
+      "options": {
+        "A": "é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis",
+        "B": "relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza",
+        "C": "evidencia aquisições e alienações de ativos de longo prazo e outros investimentos",
+        "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
+      },
+      "answer": "A",
+      "explanation": "Modelo de Elizabetsky: é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis."
+    },
+    {
+      "id": 8,
+      "q": "Qual é a interpretação mais adequada ao utilizar Modelo de Elizabetsky em uma análise?",
+      "options": {
+        "A": "Usar Modelo de Elizabetsky de acordo com sua finalidade: é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Modelo de Elizabetsky apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar Modelo de Elizabetsky sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis."
+    },
+    {
+      "id": 9,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Modelo de Matias?",
+      "options": {
+        "A": "evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade",
+        "B": "é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros",
+        "C": "relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa",
+        "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
+      },
+      "answer": "D",
+      "explanation": "Modelo de Matias: é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência."
+    },
+    {
+      "id": 10,
+      "q": "Qual é a interpretação mais adequada ao utilizar Modelo de Matias em uma análise?",
+      "options": {
+        "A": "Usar Modelo de Matias de acordo com sua finalidade: é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Modelo de Matias apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar Modelo de Matias sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência."
+    },
+    {
+      "id": 11,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Modelo de Pereira da Silva?",
+      "options": {
+        "A": "é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros",
+        "B": "deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente",
+        "C": "demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período",
+        "D": "estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta"
+      },
+      "answer": "A",
+      "explanation": "Modelo de Pereira da Silva: é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros."
+    },
+    {
+      "id": 12,
+      "q": "Qual é a interpretação mais adequada ao utilizar Modelo de Pereira da Silva em uma análise?",
+      "options": {
+        "A": "Usar Modelo de Pereira da Silva de acordo com sua finalidade: é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros.",
+        "B": "Interpretar Modelo de Pereira da Silva sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Modelo de Pereira da Silva apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros."
+    },
+    {
+      "id": 13,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Previsão de Insolvência?",
+      "options": {
+        "A": "é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores",
+        "B": "evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros",
+        "C": "evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade",
+        "D": "estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta"
+      },
+      "answer": "D",
+      "explanation": "Previsão de Insolvência: estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
+    },
+    {
+      "id": 14,
+      "q": "Qual é a interpretação mais adequada ao utilizar Previsão de Insolvência em uma análise?",
+      "options": {
+        "A": "Interpretar Previsão de Insolvência sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Previsão de Insolvência apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Previsão de Insolvência de acordo com sua finalidade: estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
+    },
+    {
+      "id": 15,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente DFC Operacional?",
+      "options": {
+        "A": "evidencia aquisições e alienações de ativos de longo prazo e outros investimentos",
+        "B": "relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza",
+        "C": "utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore",
+        "D": "evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade"
+      },
+      "answer": "D",
+      "explanation": "DFC Operacional: evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade."
+    },
+    {
+      "id": 16,
+      "q": "Qual é a interpretação mais adequada ao utilizar DFC Operacional em uma análise?",
+      "options": {
+        "A": "Usar DFC Operacional de acordo com sua finalidade: evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar DFC Operacional apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar DFC Operacional sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade."
+    },
+    {
+      "id": 17,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente DFC Investimento?",
+      "options": {
+        "A": "é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros",
+        "B": "evidencia aquisições e alienações de ativos de longo prazo e outros investimentos",
+        "C": "relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa",
+        "D": "evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade"
+      },
+      "answer": "B",
+      "explanation": "DFC Investimento: evidencia aquisições e alienações de ativos de longo prazo e outros investimentos."
+    },
+    {
+      "id": 18,
+      "q": "Qual é a interpretação mais adequada ao utilizar DFC Investimento em uma análise?",
+      "options": {
+        "A": "Usar DFC Investimento de acordo com sua finalidade: evidencia aquisições e alienações de ativos de longo prazo e outros investimentos.",
+        "B": "Interpretar DFC Investimento sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar DFC Investimento apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia aquisições e alienações de ativos de longo prazo e outros investimentos."
+    },
+    {
+      "id": 19,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente DFC Financiamento?",
+      "options": {
+        "A": "demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período",
+        "B": "é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis",
+        "C": "evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade",
+        "D": "deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente"
+      },
+      "answer": "C",
+      "explanation": "DFC Financiamento: evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade."
+    },
+    {
+      "id": 20,
+      "q": "Qual é a interpretação mais adequada ao utilizar DFC Financiamento em uma análise?",
+      "options": {
+        "A": "Usar DFC Financiamento de acordo com sua finalidade: evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar DFC Financiamento sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar DFC Financiamento apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade."
+    },
+    {
+      "id": 21,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente DMPL?",
+      "options": {
+        "A": "demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período",
+        "B": "é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores",
+        "C": "evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros",
+        "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
+      },
+      "answer": "A",
+      "explanation": "DMPL: demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período."
+    },
+    {
+      "id": 22,
+      "q": "Qual é a interpretação mais adequada ao utilizar DMPL em uma análise?",
+      "options": {
+        "A": "Usar DMPL apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar DMPL de acordo com sua finalidade: demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar DMPL sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período."
+    },
+    {
+      "id": 23,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente DVA?",
+      "options": {
+        "A": "relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza",
+        "B": "evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros",
+        "C": "é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros",
+        "D": "utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore"
+      },
+      "answer": "B",
+      "explanation": "DVA: evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros."
+    },
+    {
+      "id": 24,
+      "q": "Qual é a interpretação mais adequada ao utilizar DVA em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar DVA apenas como substituto de todas as demais análises financeiras.",
+        "C": "Usar DVA de acordo com sua finalidade: evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros.",
+        "D": "Interpretar DVA sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros."
+    },
+    {
+      "id": 25,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Potencial de Gerar Riqueza do Ativo?",
+      "options": {
+        "A": "estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta",
+        "B": "é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros",
+        "C": "relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza",
+        "D": "relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa"
+      },
+      "answer": "C",
+      "explanation": "Potencial de Gerar Riqueza do Ativo: relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza."
+    },
+    {
+      "id": 26,
+      "q": "Qual é a interpretação mais adequada ao utilizar Potencial de Gerar Riqueza do Ativo em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Potencial de Gerar Riqueza do Ativo de acordo com sua finalidade: relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza.",
+        "C": "Interpretar Potencial de Gerar Riqueza do Ativo sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Potencial de Gerar Riqueza do Ativo apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza."
+    },
+    {
+      "id": 27,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Valor Adicionado per capita?",
+      "options": {
+        "A": "deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente",
+        "B": "evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade",
+        "C": "relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa",
+        "D": "é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis"
+      },
+      "answer": "C",
+      "explanation": "Valor Adicionado per capita: relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa."
+    },
+    {
+      "id": 28,
+      "q": "Qual é a interpretação mais adequada ao utilizar Valor Adicionado per capita em uma análise?",
+      "options": {
+        "A": "Usar Valor Adicionado per capita de acordo com sua finalidade: relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Valor Adicionado per capita sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Valor Adicionado per capita apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa."
+    },
+    {
+      "id": 29,
+      "q": "Na Insolvência, DFC, DMPL, DVA e Parecer, qual alternativa descreve corretamente Parecer Econômico-Financeiro?",
+      "options": {
+        "A": "é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores",
+        "B": "evidencia aquisições e alienações de ativos de longo prazo e outros investimentos",
+        "C": "deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente",
+        "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
+      },
+      "answer": "C",
+      "explanation": "Parecer Econômico-Financeiro: deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
+    },
+    {
+      "id": 30,
+      "q": "Qual é a interpretação mais adequada ao utilizar Parecer Econômico-Financeiro em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Parecer Econômico-Financeiro apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar Parecer Econômico-Financeiro sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Parecer Econômico-Financeiro de acordo com sua finalidade: deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
+    }
+  ],
+  "essays": [
+    {
+      "id": 1,
+      "q": "Explique o conceito de Análise Discriminante e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Análise Discriminante é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 2,
+      "q": "Explique o conceito de Modelo de Altman e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Modelo de Altman utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 3,
+      "q": "Explique o conceito de Modelo de Kanitz e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Modelo de Kanitz é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 4,
+      "q": "Explique o conceito de Modelo de Elizabetsky e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Modelo de Elizabetsky é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 5,
+      "q": "Explique o conceito de Modelo de Matias e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Modelo de Matias é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 6,
+      "q": "Explique o conceito de Modelo de Pereira da Silva e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Modelo de Pereira da Silva é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 7,
+      "q": "Explique o conceito de Previsão de Insolvência e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Previsão de Insolvência estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 8,
+      "q": "Explique o conceito de DFC Operacional e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DFC Operacional evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 9,
+      "q": "Explique o conceito de DFC Investimento e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DFC Investimento evidencia aquisições e alienações de ativos de longo prazo e outros investimentos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 10,
+      "q": "Explique o conceito de DFC Financiamento e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DFC Financiamento evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 11,
+      "q": "Explique o conceito de DMPL e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DMPL demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 12,
+      "q": "Explique o conceito de DVA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DVA evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 13,
+      "q": "Explique o conceito de Potencial de Gerar Riqueza do Ativo e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Potencial de Gerar Riqueza do Ativo relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 14,
+      "q": "Explique o conceito de Valor Adicionado per capita e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Valor Adicionado per capita relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 15,
+      "q": "Explique o conceito de Parecer Econômico-Financeiro e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Parecer Econômico-Financeiro deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "O que é Análise Discriminante?",
+      "back": "Análise Discriminante é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores."
+    },
+    {
+      "id": 2,
+      "front": "O que é Modelo de Altman?",
+      "back": "Modelo de Altman utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore."
+    },
+    {
+      "id": 3,
+      "front": "O que é Modelo de Kanitz?",
+      "back": "Modelo de Kanitz é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros."
+    },
+    {
+      "id": 4,
+      "front": "O que é Modelo de Elizabetsky?",
+      "back": "Modelo de Elizabetsky é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis."
+    },
+    {
+      "id": 5,
+      "front": "O que é Modelo de Matias?",
+      "back": "Modelo de Matias é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência."
+    },
+    {
+      "id": 6,
+      "front": "O que é Modelo de Pereira da Silva?",
+      "back": "Modelo de Pereira da Silva é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros."
+    },
+    {
+      "id": 7,
+      "front": "O que é Previsão de Insolvência?",
+      "back": "Previsão de Insolvência estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
+    },
+    {
+      "id": 8,
+      "front": "O que é DFC Operacional?",
+      "back": "DFC Operacional evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade."
+    },
+    {
+      "id": 9,
+      "front": "O que é DFC Investimento?",
+      "back": "DFC Investimento evidencia aquisições e alienações de ativos de longo prazo e outros investimentos."
+    },
+    {
+      "id": 10,
+      "front": "O que é DFC Financiamento?",
+      "back": "DFC Financiamento evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade."
+    },
+    {
+      "id": 11,
+      "front": "O que é DMPL?",
+      "back": "DMPL demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período."
+    },
+    {
+      "id": 12,
+      "front": "O que é DVA?",
+      "back": "DVA evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros."
+    },
+    {
+      "id": 13,
+      "front": "O que é Potencial de Gerar Riqueza do Ativo?",
+      "back": "Potencial de Gerar Riqueza do Ativo relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza."
+    },
+    {
+      "id": 14,
+      "front": "O que é Valor Adicionado per capita?",
+      "back": "Valor Adicionado per capita relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa."
+    },
+    {
+      "id": 15,
+      "front": "O que é Parecer Econômico-Financeiro?",
+      "back": "Parecer Econômico-Financeiro deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
+    }
+  ]
+}

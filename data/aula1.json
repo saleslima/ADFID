@@ -1,0 +1,520 @@
+{
+  "lecture": 1,
+  "title": "Aula 1 — Demonstrações Contábeis e Indicadores",
+  "objectives": [
+    {
+      "id": 1,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Balanço Patrimonial?",
+      "options": {
+        "A": "evidencia a posição patrimonial e financeira da entidade em determinada data",
+        "B": "é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil",
+        "C": "representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional",
+        "D": "apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido"
+      },
+      "answer": "A",
+      "explanation": "Balanço Patrimonial: evidencia a posição patrimonial e financeira da entidade em determinada data."
+    },
+    {
+      "id": 2,
+      "q": "Qual é a interpretação mais adequada ao utilizar Balanço Patrimonial em uma análise?",
+      "options": {
+        "A": "Usar Balanço Patrimonial apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Balanço Patrimonial de acordo com sua finalidade: evidencia a posição patrimonial e financeira da entidade em determinada data.",
+        "C": "Interpretar Balanço Patrimonial sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia a posição patrimonial e financeira da entidade em determinada data."
+    },
+    {
+      "id": 3,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente DRE?",
+      "options": {
+        "A": "apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido",
+        "B": "são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis",
+        "C": "comunica informações sociais e ambientais relacionadas à atuação da organização",
+        "D": "evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado"
+      },
+      "answer": "A",
+      "explanation": "DRE: apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido."
+    },
+    {
+      "id": 4,
+      "q": "Qual é a interpretação mais adequada ao utilizar DRE em uma análise?",
+      "options": {
+        "A": "Usar DRE apenas como substituto de todas as demais análises financeiras.",
+        "B": "Interpretar DRE sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar DRE de acordo com sua finalidade: apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido."
+    },
+    {
+      "id": 5,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente DRA?",
+      "options": {
+        "A": "evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado",
+        "B": "são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada",
+        "C": "busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo",
+        "D": "apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento"
+      },
+      "answer": "A",
+      "explanation": "DRA: evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado."
+    },
+    {
+      "id": 6,
+      "q": "Qual é a interpretação mais adequada ao utilizar DRA em uma análise?",
+      "options": {
+        "A": "Usar DRA apenas como substituto de todas as demais análises financeiras.",
+        "B": "Interpretar DRA sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar DRA de acordo com sua finalidade: evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado."
+    },
+    {
+      "id": 7,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente DFC?",
+      "options": {
+        "A": "demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la",
+        "B": "apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento",
+        "C": "fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade",
+        "D": "avaliam a capacidade de pagamento da entidade em diferentes horizontes"
+      },
+      "answer": "B",
+      "explanation": "DFC: apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento."
+    },
+    {
+      "id": 8,
+      "q": "Qual é a interpretação mais adequada ao utilizar DFC em uma análise?",
+      "options": {
+        "A": "Usar DFC de acordo com sua finalidade: apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento.",
+        "B": "Usar DFC apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar DFC sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento."
+    },
+    {
+      "id": 9,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente DVA?",
+      "options": {
+        "A": "é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil",
+        "B": "representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional",
+        "C": "avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros",
+        "D": "demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la"
+      },
+      "answer": "D",
+      "explanation": "DVA: demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la."
+    },
+    {
+      "id": 10,
+      "q": "Qual é a interpretação mais adequada ao utilizar DVA em uma análise?",
+      "options": {
+        "A": "Usar DVA apenas como substituto de todas as demais análises financeiras.",
+        "B": "Interpretar DVA sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar DVA de acordo com sua finalidade: demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la."
+    },
+    {
+      "id": 11,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente DOAR?",
+      "options": {
+        "A": "comunica informações sociais e ambientais relacionadas à atuação da organização",
+        "B": "é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil",
+        "C": "envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis",
+        "D": "são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis"
+      },
+      "answer": "B",
+      "explanation": "DOAR: é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil."
+    },
+    {
+      "id": 12,
+      "q": "Qual é a interpretação mais adequada ao utilizar DOAR em uma análise?",
+      "options": {
+        "A": "Usar DOAR de acordo com sua finalidade: é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil.",
+        "B": "Interpretar DOAR sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar DOAR apenas como substituto de todas as demais análises financeiras.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil."
+    },
+    {
+      "id": 13,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Balanço Social?",
+      "options": {
+        "A": "são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada",
+        "B": "busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo",
+        "C": "comunica informações sociais e ambientais relacionadas à atuação da organização",
+        "D": "evidencia a posição patrimonial e financeira da entidade em determinada data"
+      },
+      "answer": "C",
+      "explanation": "Balanço Social: comunica informações sociais e ambientais relacionadas à atuação da organização."
+    },
+    {
+      "id": 14,
+      "q": "Qual é a interpretação mais adequada ao utilizar Balanço Social em uma análise?",
+      "options": {
+        "A": "Usar Balanço Social apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Balanço Social de acordo com sua finalidade: comunica informações sociais e ambientais relacionadas à atuação da organização.",
+        "D": "Interpretar Balanço Social sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, comunica informações sociais e ambientais relacionadas à atuação da organização."
+    },
+    {
+      "id": 15,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Relato Integrado?",
+      "options": {
+        "A": "busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo",
+        "B": "apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido",
+        "C": "avaliam a capacidade de pagamento da entidade em diferentes horizontes",
+        "D": "fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade"
+      },
+      "answer": "A",
+      "explanation": "Relato Integrado: busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo."
+    },
+    {
+      "id": 16,
+      "q": "Qual é a interpretação mais adequada ao utilizar Relato Integrado em uma análise?",
+      "options": {
+        "A": "Usar Relato Integrado apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Relato Integrado sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Relato Integrado de acordo com sua finalidade: busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo."
+    },
+    {
+      "id": 17,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente GRI?",
+      "options": {
+        "A": "evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado",
+        "B": "fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade",
+        "C": "avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros",
+        "D": "representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional"
+      },
+      "answer": "B",
+      "explanation": "GRI: fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade."
+    },
+    {
+      "id": 18,
+      "q": "Qual é a interpretação mais adequada ao utilizar GRI em uma análise?",
+      "options": {
+        "A": "Interpretar GRI sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar GRI de acordo com sua finalidade: fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade.",
+        "C": "Usar GRI apenas como substituto de todas as demais análises financeiras.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade."
+    },
+    {
+      "id": 19,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente EBITDA?",
+      "options": {
+        "A": "apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento",
+        "B": "são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis",
+        "C": "representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional",
+        "D": "envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis"
+      },
+      "answer": "C",
+      "explanation": "EBITDA: representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional."
+    },
+    {
+      "id": 20,
+      "q": "Qual é a interpretação mais adequada ao utilizar EBITDA em uma análise?",
+      "options": {
+        "A": "Interpretar EBITDA sem comparar períodos, contexto ou outras informações.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar EBITDA de acordo com sua finalidade: representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional.",
+        "D": "Usar EBITDA apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional."
+    },
+    {
+      "id": 21,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Indicadores GAAP?",
+      "options": {
+        "A": "são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada",
+        "B": "são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis",
+        "C": "evidencia a posição patrimonial e financeira da entidade em determinada data",
+        "D": "demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la"
+      },
+      "answer": "B",
+      "explanation": "Indicadores GAAP: são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis."
+    },
+    {
+      "id": 22,
+      "q": "Qual é a interpretação mais adequada ao utilizar Indicadores GAAP em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Indicadores GAAP de acordo com sua finalidade: são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis.",
+        "C": "Interpretar Indicadores GAAP sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Indicadores GAAP apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis."
+    },
+    {
+      "id": 23,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Indicadores non-GAAP?",
+      "options": {
+        "A": "são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada",
+        "B": "apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido",
+        "C": "é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil",
+        "D": "avaliam a capacidade de pagamento da entidade em diferentes horizontes"
+      },
+      "answer": "A",
+      "explanation": "Indicadores non-GAAP: são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada."
+    },
+    {
+      "id": 24,
+      "q": "Qual é a interpretação mais adequada ao utilizar Indicadores non-GAAP em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Indicadores non-GAAP de acordo com sua finalidade: são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada.",
+        "C": "Usar Indicadores non-GAAP apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar Indicadores non-GAAP sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada."
+    },
+    {
+      "id": 25,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Índices de liquidez?",
+      "options": {
+        "A": "avaliam a capacidade de pagamento da entidade em diferentes horizontes",
+        "B": "avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros",
+        "C": "evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado",
+        "D": "comunica informações sociais e ambientais relacionadas à atuação da organização"
+      },
+      "answer": "A",
+      "explanation": "Índices de liquidez: avaliam a capacidade de pagamento da entidade em diferentes horizontes."
+    },
+    {
+      "id": 26,
+      "q": "Qual é a interpretação mais adequada ao utilizar Índices de liquidez em uma análise?",
+      "options": {
+        "A": "Usar Índices de liquidez apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Índices de liquidez de acordo com sua finalidade: avaliam a capacidade de pagamento da entidade em diferentes horizontes.",
+        "D": "Interpretar Índices de liquidez sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, avaliam a capacidade de pagamento da entidade em diferentes horizontes."
+    },
+    {
+      "id": 27,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Estrutura patrimonial?",
+      "options": {
+        "A": "busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo",
+        "B": "envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis",
+        "C": "apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento",
+        "D": "avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros"
+      },
+      "answer": "D",
+      "explanation": "Estrutura patrimonial: avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros."
+    },
+    {
+      "id": 28,
+      "q": "Qual é a interpretação mais adequada ao utilizar Estrutura patrimonial em uma análise?",
+      "options": {
+        "A": "Interpretar Estrutura patrimonial sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Estrutura patrimonial de acordo com sua finalidade: avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros.",
+        "C": "Usar Estrutura patrimonial apenas como substituto de todas as demais análises financeiras.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros."
+    },
+    {
+      "id": 29,
+      "q": "Na Demonstrações Contábeis e Indicadores, qual alternativa descreve corretamente Processo de análise?",
+      "options": {
+        "A": "fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade",
+        "B": "envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis",
+        "C": "demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la",
+        "D": "evidencia a posição patrimonial e financeira da entidade em determinada data"
+      },
+      "answer": "B",
+      "explanation": "Processo de análise: envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis."
+    },
+    {
+      "id": 30,
+      "q": "Qual é a interpretação mais adequada ao utilizar Processo de análise em uma análise?",
+      "options": {
+        "A": "Interpretar Processo de análise sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Processo de análise apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Processo de análise de acordo com sua finalidade: envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis."
+    }
+  ],
+  "essays": [
+    {
+      "id": 1,
+      "q": "Explique o conceito de Balanço Patrimonial e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Balanço Patrimonial evidencia a posição patrimonial e financeira da entidade em determinada data. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 2,
+      "q": "Explique o conceito de DRE e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DRE apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 3,
+      "q": "Explique o conceito de DRA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DRA evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 4,
+      "q": "Explique o conceito de DFC e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DFC apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 5,
+      "q": "Explique o conceito de DVA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DVA demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 6,
+      "q": "Explique o conceito de DOAR e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "DOAR é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 7,
+      "q": "Explique o conceito de Balanço Social e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Balanço Social comunica informações sociais e ambientais relacionadas à atuação da organização. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 8,
+      "q": "Explique o conceito de Relato Integrado e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Relato Integrado busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 9,
+      "q": "Explique o conceito de GRI e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "GRI fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 10,
+      "q": "Explique o conceito de EBITDA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "EBITDA representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 11,
+      "q": "Explique o conceito de Indicadores GAAP e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Indicadores GAAP são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 12,
+      "q": "Explique o conceito de Indicadores non-GAAP e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Indicadores non-GAAP são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 13,
+      "q": "Explique o conceito de Índices de liquidez e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Índices de liquidez avaliam a capacidade de pagamento da entidade em diferentes horizontes. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 14,
+      "q": "Explique o conceito de Estrutura patrimonial e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Estrutura patrimonial avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 15,
+      "q": "Explique o conceito de Processo de análise e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Processo de análise envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "O que é Balanço Patrimonial?",
+      "back": "Balanço Patrimonial evidencia a posição patrimonial e financeira da entidade em determinada data."
+    },
+    {
+      "id": 2,
+      "front": "O que é DRE?",
+      "back": "DRE apura o desempenho do período por meio de receitas, custos e despesas até o resultado líquido."
+    },
+    {
+      "id": 3,
+      "front": "O que é DRA?",
+      "back": "DRA evidencia o resultado abrangente, incluindo itens que não transitam imediatamente pelo resultado."
+    },
+    {
+      "id": 4,
+      "front": "O que é DFC?",
+      "back": "DFC apresenta entradas e saídas de caixa classificadas em atividades operacionais, de investimento e de financiamento."
+    },
+    {
+      "id": 5,
+      "front": "O que é DVA?",
+      "back": "DVA demonstra a riqueza gerada pela entidade e sua distribuição entre os agentes que contribuíram para gerá-la."
+    },
+    {
+      "id": 6,
+      "front": "O que é DOAR?",
+      "back": "DOAR é uma demonstração historicamente utilizada para explicar origens e aplicações de recursos e deixou de ser obrigatória no Brasil."
+    },
+    {
+      "id": 7,
+      "front": "O que é Balanço Social?",
+      "back": "Balanço Social comunica informações sociais e ambientais relacionadas à atuação da organização."
+    },
+    {
+      "id": 8,
+      "front": "O que é Relato Integrado?",
+      "back": "Relato Integrado busca conectar informações financeiras e não financeiras e explicar a criação de valor ao longo do tempo."
+    },
+    {
+      "id": 9,
+      "front": "O que é GRI?",
+      "back": "GRI fornece padrões amplamente utilizados para elaboração de relatórios de sustentabilidade."
+    },
+    {
+      "id": 10,
+      "front": "O que é EBITDA?",
+      "back": "EBITDA representa o resultado antes de juros, impostos, depreciação e amortização e é usado como indicador operacional."
+    },
+    {
+      "id": 11,
+      "front": "O que é Indicadores GAAP?",
+      "back": "Indicadores GAAP são medidas baseadas em informações e critérios reconhecidos nas demonstrações contábeis."
+    },
+    {
+      "id": 12,
+      "front": "O que é Indicadores non-GAAP?",
+      "back": "Indicadores non-GAAP são métricas gerenciais complementares que não seguem necessariamente uma medida contábil padronizada."
+    },
+    {
+      "id": 13,
+      "front": "O que é Índices de liquidez?",
+      "back": "Índices de liquidez avaliam a capacidade de pagamento da entidade em diferentes horizontes."
+    },
+    {
+      "id": 14,
+      "front": "O que é Estrutura patrimonial?",
+      "back": "Estrutura patrimonial avalia a composição das fontes de financiamento e o nível de dependência de capitais de terceiros."
+    },
+    {
+      "id": 15,
+      "front": "O que é Processo de análise?",
+      "back": "Processo de análise envolve observação, exame e interpretação das informações para transformar dados em conclusões úteis."
+    }
+  ]
+}

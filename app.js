@@ -1,38 +1,19 @@
-let instalarEvento;
-
-const btn=document.getElementById('btnInstalar');
-
-window.addEventListener('beforeinstallprompt', e=>{
-e.preventDefault();
-instalarEvento=e;
-btn.style.display='block';
-});
-
-btn.onclick=async()=>{
-if(instalarEvento){
-instalarEvento.prompt();
-let r=await instalarEvento.userChoice;
-if(r.outcome==='accepted'){
-btn.style.display='none';
-}
-}
-};
-
-window.addEventListener('appinstalled',()=>{
-btn.style.display='none';
-});
-
-function chuvaCoracoes(){
-for(let i=0;i<30;i++){
-let c=document.createElement('span');
-c.innerHTML='❤️';
-c.style.left=Math.random()*100+'%';
-c.style.animationDelay=Math.random()*2+'s';
-document.body.appendChild(c);
-setTimeout(()=>c.remove(),3000);
-}
-}
-
-if('serviceWorker' in navigator){
-navigator.serviceWorker.register('service-worker.js');
-}
+const LESSONS=[1,2,3,4,5,6];let cache={},current=1,tab='quiz',deferredPrompt=null;const state=JSON.parse(localStorage.getItem('adfid-progress')||'{}');for(const n of LESSONS){state[n]??={answers:{},correct:0};}
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+async function load(n){if(!cache[n]) cache[n]=await fetch(`data/aula${n}.json`).then(r=>r.json());return cache[n]}
+function save(){localStorage.setItem('adfid-progress',JSON.stringify(state));updateStats();}
+function updateStats(){let a=0,c=0;for(const n of LESSONS){a+=Object.keys(state[n].answers).length;c+=Object.values(state[n].answers).filter(x=>x.correct).length;}$('#totalAnswered').textContent=a;$('#totalCorrect').textContent=c;$('#totalPct').textContent=a?Math.round(c/a*100)+'%':'0%';}
+async function home(){const g=$('#lessonGrid');g.innerHTML='';for(const n of LESSONS){const d=await load(n),ans=Object.keys(state[n].answers).length,p=Math.round(ans/30*100);const card=document.createElement('article');card.className='lesson';card.innerHTML=`<span class="num">AULA ${n}</span><h4>${d.title.replace(/^Aula \d+ — /,'')}</h4><div class="progress"><i style="width:${p}%"></i></div><small>${ans}/30 objetivas respondidas • ${p}%</small>`;card.onclick=()=>openLesson(n);g.append(card)}updateStats()}
+async function openLesson(n){current=n;$('#home').classList.add('hidden');$('#study').classList.remove('hidden');const d=await load(n);$('#lessonLabel').textContent=`AULA ${n}`;$('#lessonTitle').textContent=d.title.replace(/^Aula \d+ — /,'');render();scrollTo({top:0,behavior:'smooth'})}
+function render(){if(tab==='quiz')renderQuiz();if(tab==='essay')renderEssay();if(tab==='flash')renderFlash()}
+async function renderQuiz(){const d=await load(current),box=$('#content');box.innerHTML='';d.objectives.forEach(q=>{const saved=state[current].answers[q.id],el=document.createElement('article');el.className='qcard';let opts=Object.entries(q.options).map(([k,v])=>`<button class="option ${saved?(k===q.answer?'correct':(saved.choice===k?'wrong':'')):''}" data-k="${k}" ${saved?'disabled':''}><b>${k})</b> ${v}</button>`).join('');el.innerHTML=`<span class="qnum">QUESTÃO ${q.id} DE 30</span><h4>${q.q}</h4><div class="options">${opts}</div><button class="details">Detalhes da resposta</button><div class="explanation hidden"><b>Resposta correta: ${q.answer}</b><br>${q.explanation}</div>`;el.querySelector('.details').onclick=()=>el.querySelector('.explanation').classList.toggle('hidden');el.querySelectorAll('.option').forEach(b=>b.onclick=()=>answer(q,b.dataset.k));box.append(el)});partial()}
+function answer(q,k){if(state[current].answers[q.id])return;const ok=k===q.answer;state[current].answers[q.id]={choice:k,correct:ok};save();if(ok){const total=Object.values(state[current].answers).filter(x=>x.correct).length;if(total>0&&total%5===0)hearts()}const answered=Object.keys(state[current].answers).length;if(answered%5===0)toast(`Parcial: ${Object.values(state[current].answers).filter(x=>x.correct).length} acertos em ${answered} • ${Math.round(Object.values(state[current].answers).filter(x=>x.correct).length/answered*100)}%`);renderQuiz()}
+function partial(){const box=$('#content'),a=Object.keys(state[current].answers).length,c=Object.values(state[current].answers).filter(x=>x.correct).length;if(a){const el=document.createElement('div');el.className='partial';el.textContent=`Aula ${current}: ${c}/${a} acertos • ${Math.round(c/a*100)}%`;box.append(el)}}
+async function renderEssay(){const d=await load(current),box=$('#content');box.innerHTML='';d.essays.forEach(q=>{const el=document.createElement('article');el.className='essay';el.innerHTML=`<span class="qnum">DISSERTATIVA ${q.id} DE 15</span><h4>${q.q}</h4><button class="answerBtn">Mostrar resposta</button><div class="essayAnswer hidden">${q.answer}</div>`;el.querySelector('.answerBtn').onclick=()=>el.querySelector('.essayAnswer').classList.toggle('hidden');box.append(el)})}
+async function renderFlash(){const d=await load(current),box=$('#content');box.innerHTML='<div class="flashGrid"></div>';const g=box.firstChild;d.flashcards.forEach(f=>{const el=document.createElement('div');el.className='flash';el.innerHTML=`<div class="flashInner"><div class="face">${f.front}<small style="display:block;color:var(--muted);margin-top:12px">Toque para virar</small></div><div class="face backFace">${f.back}</div></div>`;el.onclick=()=>el.classList.toggle('flipped');g.append(el)})}
+function hearts(){const h=$('#hearts');for(let i=0;i<32;i++){const e=document.createElement('span');e.className='heart';e.textContent=['💙','💜','💖','❤️'][i%4];e.style.left=Math.random()*100+'vw';e.style.animationDelay=Math.random()*.6+'s';e.style.fontSize=(18+Math.random()*24)+'px';h.append(e)}setTimeout(()=>h.innerHTML='',3600)}
+function toast(t){const x=$('#toast');x.textContent=t;x.classList.add('show');setTimeout(()=>x.classList.remove('show'),3200)}
+$('#back').onclick=()=>{$('#study').classList.add('hidden');$('#home').classList.remove('hidden');home()};$$('.tabs button').forEach(b=>b.onclick=()=>{$$('.tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');tab=b.dataset.tab;render()});
+const theme=localStorage.getItem('adfid-theme')||'day';document.body.dataset.theme=theme;$('#theme').value=theme;$('#theme').onchange=e=>{document.body.dataset.theme=e.target.value;localStorage.setItem('adfid-theme',e.target.value)};
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;$('#installBtn').style.display='inline-block'});$('#installBtn').onclick=async()=>{if(deferredPrompt){deferredPrompt.prompt();await deferredPrompt.userChoice;deferredPrompt=null}else toast('No celular, use “Adicionar à tela inicial” se o navegador não mostrar o instalador.')};window.addEventListener('appinstalled',()=>{$('#installBtn').style.display='none';toast('ADFID instalado com sucesso!')});if(matchMedia('(display-mode: standalone)').matches)$('#installBtn').style.display='none';
+if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js'));home();

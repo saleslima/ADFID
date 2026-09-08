@@ -1,0 +1,520 @@
+{
+  "lecture": 2,
+  "title": "Aula 2 — Análise Vertical, Horizontal, Liquidez e Estrutura",
+  "objectives": [
+    {
+      "id": 1,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Análise Vertical?",
+      "options": {
+        "A": "compara a evolução de contas ao longo do tempo tomando um período como referência",
+        "B": "considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento",
+        "C": "indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada",
+        "D": "mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração"
+      },
+      "answer": "D",
+      "explanation": "Análise Vertical: mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração."
+    },
+    {
+      "id": 2,
+      "q": "Qual é a interpretação mais adequada ao utilizar Análise Vertical em uma análise?",
+      "options": {
+        "A": "Interpretar Análise Vertical sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Análise Vertical apenas como substituto de todas as demais análises financeiras.",
+        "C": "Usar Análise Vertical de acordo com sua finalidade: mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração."
+    },
+    {
+      "id": 3,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Análise Horizontal?",
+      "options": {
+        "A": "avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente",
+        "B": "é calculada pela relação entre Ativo Circulante e Passivo Circulante",
+        "C": "índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto",
+        "D": "compara a evolução de contas ao longo do tempo tomando um período como referência"
+      },
+      "answer": "D",
+      "explanation": "Análise Horizontal: compara a evolução de contas ao longo do tempo tomando um período como referência."
+    },
+    {
+      "id": 4,
+      "q": "Qual é a interpretação mais adequada ao utilizar Análise Horizontal em uma análise?",
+      "options": {
+        "A": "Interpretar Análise Horizontal sem comparar períodos, contexto ou outras informações.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Análise Horizontal apenas como substituto de todas as demais análises financeiras.",
+        "D": "Usar Análise Horizontal de acordo com sua finalidade: compara a evolução de contas ao longo do tempo tomando um período como referência."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, compara a evolução de contas ao longo do tempo tomando um período como referência."
+    },
+    {
+      "id": 5,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Liquidez Corrente?",
+      "options": {
+        "A": "é calculada pela relação entre Ativo Circulante e Passivo Circulante",
+        "B": "exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante",
+        "C": "evidencia a participação de capitais de terceiros no financiamento da empresa",
+        "D": "orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados"
+      },
+      "answer": "A",
+      "explanation": "Liquidez Corrente: é calculada pela relação entre Ativo Circulante e Passivo Circulante."
+    },
+    {
+      "id": 6,
+      "q": "Qual é a interpretação mais adequada ao utilizar Liquidez Corrente em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Liquidez Corrente apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar Liquidez Corrente sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Liquidez Corrente de acordo com sua finalidade: é calculada pela relação entre Ativo Circulante e Passivo Circulante."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é calculada pela relação entre Ativo Circulante e Passivo Circulante."
+    },
+    {
+      "id": 7,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Liquidez Seca?",
+      "options": {
+        "A": "mostra quanto das dívidas totais está concentrado no curto prazo",
+        "B": "relaciona disponibilidades imediatas com o Passivo Circulante",
+        "C": "relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas",
+        "D": "exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante"
+      },
+      "answer": "D",
+      "explanation": "Liquidez Seca: exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante."
+    },
+    {
+      "id": 8,
+      "q": "Qual é a interpretação mais adequada ao utilizar Liquidez Seca em uma análise?",
+      "options": {
+        "A": "Usar Liquidez Seca apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Liquidez Seca sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Liquidez Seca de acordo com sua finalidade: exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante."
+    },
+    {
+      "id": 9,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Liquidez Imediata?",
+      "options": {
+        "A": "considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento",
+        "B": "indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada",
+        "C": "relaciona disponibilidades imediatas com o Passivo Circulante",
+        "D": "é essencial para interpretar índices entre períodos e empresas do mesmo segmento"
+      },
+      "answer": "C",
+      "explanation": "Liquidez Imediata: relaciona disponibilidades imediatas com o Passivo Circulante."
+    },
+    {
+      "id": 10,
+      "q": "Qual é a interpretação mais adequada ao utilizar Liquidez Imediata em uma análise?",
+      "options": {
+        "A": "Usar Liquidez Imediata apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Liquidez Imediata sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Liquidez Imediata de acordo com sua finalidade: relaciona disponibilidades imediatas com o Passivo Circulante."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona disponibilidades imediatas com o Passivo Circulante."
+    },
+    {
+      "id": 11,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Liquidez Geral?",
+      "options": {
+        "A": "avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente",
+        "B": "considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento",
+        "C": "índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto",
+        "D": "combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo"
+      },
+      "answer": "B",
+      "explanation": "Liquidez Geral: considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento."
+    },
+    {
+      "id": 12,
+      "q": "Qual é a interpretação mais adequada ao utilizar Liquidez Geral em uma análise?",
+      "options": {
+        "A": "Usar Liquidez Geral apenas como substituto de todas as demais análises financeiras.",
+        "B": "Interpretar Liquidez Geral sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Liquidez Geral de acordo com sua finalidade: considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento."
+    },
+    {
+      "id": 13,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Interpretação da Liquidez?",
+      "options": {
+        "A": "orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados",
+        "B": "evidencia a participação de capitais de terceiros no financiamento da empresa",
+        "C": "mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração",
+        "D": "índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto"
+      },
+      "answer": "D",
+      "explanation": "Interpretação da Liquidez: índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto."
+    },
+    {
+      "id": 14,
+      "q": "Qual é a interpretação mais adequada ao utilizar Interpretação da Liquidez em uma análise?",
+      "options": {
+        "A": "Usar Interpretação da Liquidez apenas como substituto de todas as demais análises financeiras.",
+        "B": "Interpretar Interpretação da Liquidez sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Interpretação da Liquidez de acordo com sua finalidade: índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto."
+    },
+    {
+      "id": 15,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Endividamento?",
+      "options": {
+        "A": "compara a evolução de contas ao longo do tempo tomando um período como referência",
+        "B": "evidencia a participação de capitais de terceiros no financiamento da empresa",
+        "C": "relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas",
+        "D": "mostra quanto das dívidas totais está concentrado no curto prazo"
+      },
+      "answer": "B",
+      "explanation": "Endividamento: evidencia a participação de capitais de terceiros no financiamento da empresa."
+    },
+    {
+      "id": 16,
+      "q": "Qual é a interpretação mais adequada ao utilizar Endividamento em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Endividamento de acordo com sua finalidade: evidencia a participação de capitais de terceiros no financiamento da empresa.",
+        "C": "Interpretar Endividamento sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Endividamento apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia a participação de capitais de terceiros no financiamento da empresa."
+    },
+    {
+      "id": 17,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Composição do Endividamento?",
+      "options": {
+        "A": "indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada",
+        "B": "mostra quanto das dívidas totais está concentrado no curto prazo",
+        "C": "é calculada pela relação entre Ativo Circulante e Passivo Circulante",
+        "D": "é essencial para interpretar índices entre períodos e empresas do mesmo segmento"
+      },
+      "answer": "B",
+      "explanation": "Composição do Endividamento: mostra quanto das dívidas totais está concentrado no curto prazo."
+    },
+    {
+      "id": 18,
+      "q": "Qual é a interpretação mais adequada ao utilizar Composição do Endividamento em uma análise?",
+      "options": {
+        "A": "Usar Composição do Endividamento de acordo com sua finalidade: mostra quanto das dívidas totais está concentrado no curto prazo.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Composição do Endividamento sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Composição do Endividamento apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, mostra quanto das dívidas totais está concentrado no curto prazo."
+    },
+    {
+      "id": 19,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Imobilização do Patrimônio Líquido?",
+      "options": {
+        "A": "combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo",
+        "B": "avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente",
+        "C": "exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante",
+        "D": "indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada"
+      },
+      "answer": "D",
+      "explanation": "Imobilização do Patrimônio Líquido: indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada."
+    },
+    {
+      "id": 20,
+      "q": "Qual é a interpretação mais adequada ao utilizar Imobilização do Patrimônio Líquido em uma análise?",
+      "options": {
+        "A": "Usar Imobilização do Patrimônio Líquido apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Imobilização do Patrimônio Líquido de acordo com sua finalidade: indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar Imobilização do Patrimônio Líquido sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada."
+    },
+    {
+      "id": 21,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Imobilização de Recursos Não Correntes?",
+      "options": {
+        "A": "mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração",
+        "B": "orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados",
+        "C": "avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente",
+        "D": "relaciona disponibilidades imediatas com o Passivo Circulante"
+      },
+      "answer": "C",
+      "explanation": "Imobilização de Recursos Não Correntes: avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente."
+    },
+    {
+      "id": 22,
+      "q": "Qual é a interpretação mais adequada ao utilizar Imobilização de Recursos Não Correntes em uma análise?",
+      "options": {
+        "A": "Usar Imobilização de Recursos Não Correntes de acordo com sua finalidade: avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente.",
+        "B": "Interpretar Imobilização de Recursos Não Correntes sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Imobilização de Recursos Não Correntes apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente."
+    },
+    {
+      "id": 23,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Gestão Baseada em Valor?",
+      "options": {
+        "A": "relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas",
+        "B": "orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados",
+        "C": "considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento",
+        "D": "compara a evolução de contas ao longo do tempo tomando um período como referência"
+      },
+      "answer": "B",
+      "explanation": "Gestão Baseada em Valor: orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados."
+    },
+    {
+      "id": 24,
+      "q": "Qual é a interpretação mais adequada ao utilizar Gestão Baseada em Valor em uma análise?",
+      "options": {
+        "A": "Interpretar Gestão Baseada em Valor sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Gestão Baseada em Valor de acordo com sua finalidade: orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Gestão Baseada em Valor apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados."
+    },
+    {
+      "id": 25,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Geração de Valor ao Acionista?",
+      "options": {
+        "A": "é essencial para interpretar índices entre períodos e empresas do mesmo segmento",
+        "B": "relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas",
+        "C": "é calculada pela relação entre Ativo Circulante e Passivo Circulante",
+        "D": "índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto"
+      },
+      "answer": "B",
+      "explanation": "Geração de Valor ao Acionista: relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas."
+    },
+    {
+      "id": 26,
+      "q": "Qual é a interpretação mais adequada ao utilizar Geração de Valor ao Acionista em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Interpretar Geração de Valor ao Acionista sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Geração de Valor ao Acionista apenas como substituto de todas as demais análises financeiras.",
+        "D": "Usar Geração de Valor ao Acionista de acordo com sua finalidade: relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas."
+    },
+    {
+      "id": 27,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Comparabilidade?",
+      "options": {
+        "A": "exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante",
+        "B": "é essencial para interpretar índices entre períodos e empresas do mesmo segmento",
+        "C": "evidencia a participação de capitais de terceiros no financiamento da empresa",
+        "D": "combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo"
+      },
+      "answer": "B",
+      "explanation": "Comparabilidade: é essencial para interpretar índices entre períodos e empresas do mesmo segmento."
+    },
+    {
+      "id": 28,
+      "q": "Qual é a interpretação mais adequada ao utilizar Comparabilidade em uma análise?",
+      "options": {
+        "A": "Interpretar Comparabilidade sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Comparabilidade apenas como substituto de todas as demais análises financeiras.",
+        "C": "Usar Comparabilidade de acordo com sua finalidade: é essencial para interpretar índices entre períodos e empresas do mesmo segmento.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é essencial para interpretar índices entre períodos e empresas do mesmo segmento."
+    },
+    {
+      "id": 29,
+      "q": "Na Análise Vertical, Horizontal, Liquidez e Estrutura, qual alternativa descreve corretamente Análise Conjunta?",
+      "options": {
+        "A": "combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo",
+        "B": "mostra quanto das dívidas totais está concentrado no curto prazo",
+        "C": "mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração",
+        "D": "relaciona disponibilidades imediatas com o Passivo Circulante"
+      },
+      "answer": "A",
+      "explanation": "Análise Conjunta: combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo."
+    },
+    {
+      "id": 30,
+      "q": "Qual é a interpretação mais adequada ao utilizar Análise Conjunta em uma análise?",
+      "options": {
+        "A": "Usar Análise Conjunta de acordo com sua finalidade: combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo.",
+        "B": "Usar Análise Conjunta apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar Análise Conjunta sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo."
+    }
+  ],
+  "essays": [
+    {
+      "id": 1,
+      "q": "Explique o conceito de Análise Vertical e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Análise Vertical mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 2,
+      "q": "Explique o conceito de Análise Horizontal e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Análise Horizontal compara a evolução de contas ao longo do tempo tomando um período como referência. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 3,
+      "q": "Explique o conceito de Liquidez Corrente e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Liquidez Corrente é calculada pela relação entre Ativo Circulante e Passivo Circulante. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 4,
+      "q": "Explique o conceito de Liquidez Seca e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Liquidez Seca exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 5,
+      "q": "Explique o conceito de Liquidez Imediata e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Liquidez Imediata relaciona disponibilidades imediatas com o Passivo Circulante. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 6,
+      "q": "Explique o conceito de Liquidez Geral e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Liquidez Geral considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 7,
+      "q": "Explique o conceito de Interpretação da Liquidez e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Interpretação da Liquidez índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 8,
+      "q": "Explique o conceito de Endividamento e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Endividamento evidencia a participação de capitais de terceiros no financiamento da empresa. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 9,
+      "q": "Explique o conceito de Composição do Endividamento e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Composição do Endividamento mostra quanto das dívidas totais está concentrado no curto prazo. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 10,
+      "q": "Explique o conceito de Imobilização do Patrimônio Líquido e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Imobilização do Patrimônio Líquido indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 11,
+      "q": "Explique o conceito de Imobilização de Recursos Não Correntes e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Imobilização de Recursos Não Correntes avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 12,
+      "q": "Explique o conceito de Gestão Baseada em Valor e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Gestão Baseada em Valor orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 13,
+      "q": "Explique o conceito de Geração de Valor ao Acionista e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Geração de Valor ao Acionista relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 14,
+      "q": "Explique o conceito de Comparabilidade e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Comparabilidade é essencial para interpretar índices entre períodos e empresas do mesmo segmento. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 15,
+      "q": "Explique o conceito de Análise Conjunta e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Análise Conjunta combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "O que é Análise Vertical?",
+      "back": "Análise Vertical mede a participação percentual de cada conta em relação a uma base dentro da mesma demonstração."
+    },
+    {
+      "id": 2,
+      "front": "O que é Análise Horizontal?",
+      "back": "Análise Horizontal compara a evolução de contas ao longo do tempo tomando um período como referência."
+    },
+    {
+      "id": 3,
+      "front": "O que é Liquidez Corrente?",
+      "back": "Liquidez Corrente é calculada pela relação entre Ativo Circulante e Passivo Circulante."
+    },
+    {
+      "id": 4,
+      "front": "O que é Liquidez Seca?",
+      "back": "Liquidez Seca exclui os estoques do Ativo Circulante antes de compará-lo ao Passivo Circulante."
+    },
+    {
+      "id": 5,
+      "front": "O que é Liquidez Imediata?",
+      "back": "Liquidez Imediata relaciona disponibilidades imediatas com o Passivo Circulante."
+    },
+    {
+      "id": 6,
+      "front": "O que é Liquidez Geral?",
+      "back": "Liquidez Geral considera direitos e obrigações de curto e longo prazos na avaliação da capacidade de pagamento."
+    },
+    {
+      "id": 7,
+      "front": "O que é Interpretação da Liquidez?",
+      "back": "Interpretação da Liquidez índices acima de 1 geralmente indicam recursos superiores às obrigações consideradas, mas devem ser analisados no contexto."
+    },
+    {
+      "id": 8,
+      "front": "O que é Endividamento?",
+      "back": "Endividamento evidencia a participação de capitais de terceiros no financiamento da empresa."
+    },
+    {
+      "id": 9,
+      "front": "O que é Composição do Endividamento?",
+      "back": "Composição do Endividamento mostra quanto das dívidas totais está concentrado no curto prazo."
+    },
+    {
+      "id": 10,
+      "front": "O que é Imobilização do Patrimônio Líquido?",
+      "back": "Imobilização do Patrimônio Líquido indica a parcela do patrimônio líquido aplicada em ativos permanentes ou não circulantes de natureza imobilizada."
+    },
+    {
+      "id": 11,
+      "front": "O que é Imobilização de Recursos Não Correntes?",
+      "back": "Imobilização de Recursos Não Correntes avalia quanto dos recursos permanentes está comprometido com investimentos de natureza permanente."
+    },
+    {
+      "id": 12,
+      "front": "O que é Gestão Baseada em Valor?",
+      "back": "Gestão Baseada em Valor orienta decisões para aumentar o valor econômico criado para proprietários e demais interessados."
+    },
+    {
+      "id": 13,
+      "front": "O que é Geração de Valor ao Acionista?",
+      "back": "Geração de Valor ao Acionista relaciona desempenho econômico, valorização da empresa e distribuição de resultados aos acionistas."
+    },
+    {
+      "id": 14,
+      "front": "O que é Comparabilidade?",
+      "back": "Comparabilidade é essencial para interpretar índices entre períodos e empresas do mesmo segmento."
+    },
+    {
+      "id": 15,
+      "front": "O que é Análise Conjunta?",
+      "back": "Análise Conjunta combinar análise vertical, horizontal, liquidez e estrutura patrimonial produz diagnóstico mais completo."
+    }
+  ]
+}

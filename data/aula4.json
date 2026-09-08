@@ -1,0 +1,520 @@
+{
+  "lecture": 4,
+  "title": "Aula 4 — Rentabilidade, EBITDA e EVA",
+  "objectives": [
+    {
+      "id": 1,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Giro do Ativo?",
+      "options": {
+        "A": "relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos",
+        "B": "relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final",
+        "C": "há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado",
+        "D": "analisa a relação entre lucro e receita obtida no período"
+      },
+      "answer": "A",
+      "explanation": "Giro do Ativo: relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos."
+    },
+    {
+      "id": 2,
+      "q": "Qual é a interpretação mais adequada ao utilizar Giro do Ativo em uma análise?",
+      "options": {
+        "A": "Usar Giro do Ativo de acordo com sua finalidade: relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos.",
+        "B": "Interpretar Giro do Ativo sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Giro do Ativo apenas como substituto de todas as demais análises financeiras.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos."
+    },
+    {
+      "id": 3,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Margem Líquida?",
+      "options": {
+        "A": "mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos",
+        "B": "Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos",
+        "C": "relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final",
+        "D": "indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes"
+      },
+      "answer": "C",
+      "explanation": "Margem Líquida: relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final."
+    },
+    {
+      "id": 4,
+      "q": "Qual é a interpretação mais adequada ao utilizar Margem Líquida em uma análise?",
+      "options": {
+        "A": "Usar Margem Líquida apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Margem Líquida de acordo com sua finalidade: relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final.",
+        "C": "Interpretar Margem Líquida sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final."
+    },
+    {
+      "id": 5,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente ROA?",
+      "options": {
+        "A": "é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido",
+        "B": "Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas",
+        "C": "Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos",
+        "D": "um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial"
+      },
+      "answer": "C",
+      "explanation": "ROA: Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos."
+    },
+    {
+      "id": 6,
+      "q": "Qual é a interpretação mais adequada ao utilizar ROA em uma análise?",
+      "options": {
+        "A": "Interpretar ROA sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar ROA de acordo com sua finalidade: Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos.",
+        "C": "Usar ROA apenas como substituto de todas as demais análises financeiras.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos."
+    },
+    {
+      "id": 7,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente ROE?",
+      "options": {
+        "A": "Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas",
+        "B": "a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos",
+        "C": "Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado",
+        "D": "avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido"
+      },
+      "answer": "A",
+      "explanation": "ROE: Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas."
+    },
+    {
+      "id": 8,
+      "q": "Qual é a interpretação mais adequada ao utilizar ROE em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Interpretar ROE sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar ROE de acordo com sua finalidade: Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas.",
+        "D": "Usar ROE apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas."
+    },
+    {
+      "id": 9,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Rentabilidade?",
+      "options": {
+        "A": "há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado",
+        "B": "taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital",
+        "C": "analisa a relação entre lucro e receita obtida no período",
+        "D": "avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido"
+      },
+      "answer": "D",
+      "explanation": "Rentabilidade: avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido."
+    },
+    {
+      "id": 10,
+      "q": "Qual é a interpretação mais adequada ao utilizar Rentabilidade em uma análise?",
+      "options": {
+        "A": "Usar Rentabilidade de acordo com sua finalidade: avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido.",
+        "B": "Usar Rentabilidade apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar Rentabilidade sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido."
+    },
+    {
+      "id": 11,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Lucratividade?",
+      "options": {
+        "A": "indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes",
+        "B": "mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos",
+        "C": "EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional",
+        "D": "analisa a relação entre lucro e receita obtida no período"
+      },
+      "answer": "D",
+      "explanation": "Lucratividade: analisa a relação entre lucro e receita obtida no período."
+    },
+    {
+      "id": 12,
+      "q": "Qual é a interpretação mais adequada ao utilizar Lucratividade em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Lucratividade de acordo com sua finalidade: analisa a relação entre lucro e receita obtida no período.",
+        "C": "Interpretar Lucratividade sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Lucratividade apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, analisa a relação entre lucro e receita obtida no período."
+    },
+    {
+      "id": 13,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente EBITDA?",
+      "options": {
+        "A": "mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos",
+        "B": "um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial",
+        "C": "é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido",
+        "D": "relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos"
+      },
+      "answer": "A",
+      "explanation": "EBITDA: mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos."
+    },
+    {
+      "id": 14,
+      "q": "Qual é a interpretação mais adequada ao utilizar EBITDA em uma análise?",
+      "options": {
+        "A": "Usar EBITDA de acordo com sua finalidade: mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar EBITDA sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar EBITDA apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos."
+    },
+    {
+      "id": 15,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Uso do EBITDA?",
+      "options": {
+        "A": "relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final",
+        "B": "a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos",
+        "C": "Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado",
+        "D": "é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido"
+      },
+      "answer": "D",
+      "explanation": "Uso do EBITDA: é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido."
+    },
+    {
+      "id": 16,
+      "q": "Qual é a interpretação mais adequada ao utilizar Uso do EBITDA em uma análise?",
+      "options": {
+        "A": "Interpretar Uso do EBITDA sem comparar períodos, contexto ou outras informações.",
+        "B": "Usar Uso do EBITDA de acordo com sua finalidade: é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Uso do EBITDA apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido."
+    },
+    {
+      "id": 17,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente EVA?",
+      "options": {
+        "A": "taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital",
+        "B": "Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado",
+        "C": "há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado",
+        "D": "Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos"
+      },
+      "answer": "B",
+      "explanation": "EVA: Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado."
+    },
+    {
+      "id": 18,
+      "q": "Qual é a interpretação mais adequada ao utilizar EVA em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar EVA apenas como substituto de todas as demais análises financeiras.",
+        "C": "Interpretar EVA sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar EVA de acordo com sua finalidade: Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado."
+    },
+    {
+      "id": 19,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Valor Econômico?",
+      "options": {
+        "A": "EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional",
+        "B": "indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes",
+        "C": "há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado",
+        "D": "Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas"
+      },
+      "answer": "C",
+      "explanation": "Valor Econômico: há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado."
+    },
+    {
+      "id": 20,
+      "q": "Qual é a interpretação mais adequada ao utilizar Valor Econômico em uma análise?",
+      "options": {
+        "A": "Usar Valor Econômico apenas como substituto de todas as demais análises financeiras.",
+        "B": "Interpretar Valor Econômico sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Valor Econômico de acordo com sua finalidade: há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado."
+    },
+    {
+      "id": 21,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Comparação Setorial?",
+      "options": {
+        "A": "indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes",
+        "B": "avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido",
+        "C": "relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos",
+        "D": "um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial"
+      },
+      "answer": "A",
+      "explanation": "Comparação Setorial: indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes."
+    },
+    {
+      "id": 22,
+      "q": "Qual é a interpretação mais adequada ao utilizar Comparação Setorial em uma análise?",
+      "options": {
+        "A": "Usar Comparação Setorial de acordo com sua finalidade: indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes.",
+        "B": "Interpretar Comparação Setorial sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Comparação Setorial apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes."
+    },
+    {
+      "id": 23,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Eficiência dos Ativos?",
+      "options": {
+        "A": "relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final",
+        "B": "analisa a relação entre lucro e receita obtida no período",
+        "C": "um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial",
+        "D": "a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos"
+      },
+      "answer": "C",
+      "explanation": "Eficiência dos Ativos: um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial."
+    },
+    {
+      "id": 24,
+      "q": "Qual é a interpretação mais adequada ao utilizar Eficiência dos Ativos em uma análise?",
+      "options": {
+        "A": "Interpretar Eficiência dos Ativos sem comparar períodos, contexto ou outras informações.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Eficiência dos Ativos apenas como substituto de todas as demais análises financeiras.",
+        "D": "Usar Eficiência dos Ativos de acordo com sua finalidade: um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial."
+    },
+    {
+      "id": 25,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Margem e Giro?",
+      "options": {
+        "A": "taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital",
+        "B": "a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos",
+        "C": "mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos",
+        "D": "Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos"
+      },
+      "answer": "B",
+      "explanation": "Margem e Giro: a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos."
+    },
+    {
+      "id": 26,
+      "q": "Qual é a interpretação mais adequada ao utilizar Margem e Giro em uma análise?",
+      "options": {
+        "A": "Usar Margem e Giro de acordo com sua finalidade: a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Margem e Giro sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Margem e Giro apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos."
+    },
+    {
+      "id": 27,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Decisão do Investidor?",
+      "options": {
+        "A": "EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional",
+        "B": "Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas",
+        "C": "taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital",
+        "D": "é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido"
+      },
+      "answer": "C",
+      "explanation": "Decisão do Investidor: taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital."
+    },
+    {
+      "id": 28,
+      "q": "Qual é a interpretação mais adequada ao utilizar Decisão do Investidor em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Interpretar Decisão do Investidor sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Decisão do Investidor apenas como substituto de todas as demais análises financeiras.",
+        "D": "Usar Decisão do Investidor de acordo com sua finalidade: taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital."
+    },
+    {
+      "id": 29,
+      "q": "Na Rentabilidade, EBITDA e EVA, qual alternativa descreve corretamente Análise Integrada?",
+      "options": {
+        "A": "avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido",
+        "B": "EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional",
+        "C": "relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos",
+        "D": "Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado"
+      },
+      "answer": "B",
+      "explanation": "Análise Integrada: EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional."
+    },
+    {
+      "id": 30,
+      "q": "Qual é a interpretação mais adequada ao utilizar Análise Integrada em uma análise?",
+      "options": {
+        "A": "Usar Análise Integrada apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Análise Integrada de acordo com sua finalidade: EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional.",
+        "C": "Interpretar Análise Integrada sem comparar períodos, contexto ou outras informações.",
+        "D": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional."
+    }
+  ],
+  "essays": [
+    {
+      "id": 1,
+      "q": "Explique o conceito de Giro do Ativo e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Giro do Ativo relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 2,
+      "q": "Explique o conceito de Margem Líquida e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Margem Líquida relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 3,
+      "q": "Explique o conceito de ROA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "ROA Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 4,
+      "q": "Explique o conceito de ROE e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "ROE Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 5,
+      "q": "Explique o conceito de Rentabilidade e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Rentabilidade avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 6,
+      "q": "Explique o conceito de Lucratividade e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Lucratividade analisa a relação entre lucro e receita obtida no período. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 7,
+      "q": "Explique o conceito de EBITDA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "EBITDA mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 8,
+      "q": "Explique o conceito de Uso do EBITDA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Uso do EBITDA é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 9,
+      "q": "Explique o conceito de EVA e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "EVA Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 10,
+      "q": "Explique o conceito de Valor Econômico e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Valor Econômico há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 11,
+      "q": "Explique o conceito de Comparação Setorial e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Comparação Setorial indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 12,
+      "q": "Explique o conceito de Eficiência dos Ativos e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Eficiência dos Ativos um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 13,
+      "q": "Explique o conceito de Margem e Giro e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Margem e Giro a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 14,
+      "q": "Explique o conceito de Decisão do Investidor e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Decisão do Investidor taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 15,
+      "q": "Explique o conceito de Análise Integrada e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Análise Integrada EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "O que é Giro do Ativo?",
+      "back": "Giro do Ativo relaciona vendas ou receita líquida ao investimento em ativos e indica eficiência de utilização dos ativos."
+    },
+    {
+      "id": 2,
+      "front": "O que é Margem Líquida?",
+      "back": "Margem Líquida relaciona lucro líquido à receita e mostra quanto do faturamento permanece como resultado final."
+    },
+    {
+      "id": 3,
+      "front": "O que é ROA?",
+      "back": "ROA Retorno sobre o Ativo mede o resultado obtido em relação aos ativos investidos."
+    },
+    {
+      "id": 4,
+      "front": "O que é ROE?",
+      "back": "ROE Retorno sobre o Patrimônio Líquido mede o retorno do lucro para os recursos próprios dos acionistas."
+    },
+    {
+      "id": 5,
+      "front": "O que é Rentabilidade?",
+      "back": "Rentabilidade avalia a capacidade de gerar retorno a partir de vendas, ativos ou patrimônio líquido."
+    },
+    {
+      "id": 6,
+      "front": "O que é Lucratividade?",
+      "back": "Lucratividade analisa a relação entre lucro e receita obtida no período."
+    },
+    {
+      "id": 7,
+      "front": "O que é EBITDA?",
+      "back": "EBITDA mede o resultado antes de juros, impostos, depreciação e amortização e aproxima a geração operacional antes desses efeitos."
+    },
+    {
+      "id": 8,
+      "front": "O que é Uso do EBITDA?",
+      "back": "Uso do EBITDA é útil para comparar desempenho operacional, mas não substitui o fluxo de caixa nem o lucro líquido."
+    },
+    {
+      "id": 9,
+      "front": "O que é EVA?",
+      "back": "EVA Economic Value Added busca mensurar valor econômico criado após considerar o custo do capital empregado."
+    },
+    {
+      "id": 10,
+      "front": "O que é Valor Econômico?",
+      "back": "Valor Econômico há criação de valor quando o retorno operacional supera adequadamente o custo do capital utilizado."
+    },
+    {
+      "id": 11,
+      "front": "O que é Comparação Setorial?",
+      "back": "Comparação Setorial indicadores de rentabilidade ganham significado quando comparados ao histórico e a empresas semelhantes."
+    },
+    {
+      "id": 12,
+      "front": "O que é Eficiência dos Ativos?",
+      "back": "Eficiência dos Ativos um giro maior pode indicar melhor aproveitamento dos ativos, desde que não decorra de subinvestimento prejudicial."
+    },
+    {
+      "id": 13,
+      "front": "O que é Margem e Giro?",
+      "back": "Margem e Giro a rentabilidade pode ser influenciada tanto pela margem obtida nas vendas quanto pela velocidade de utilização dos ativos."
+    },
+    {
+      "id": 14,
+      "front": "O que é Decisão do Investidor?",
+      "back": "Decisão do Investidor taxas de retorno auxiliam investidores a avaliar risco, eficiência e remuneração do capital."
+    },
+    {
+      "id": 15,
+      "front": "O que é Análise Integrada?",
+      "back": "Análise Integrada EBITDA, margens e retornos devem ser avaliados em conjunto com endividamento, caixa e contexto operacional."
+    }
+  ]
+}

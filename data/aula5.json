@@ -1,0 +1,520 @@
+{
+  "lecture": 5,
+  "title": "Aula 5 — Alavancagem, Ponto de Equilíbrio e DuPont",
+  "objectives": [
+    {
+      "id": 1,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Alavancagem Financeira?",
+      "options": {
+        "A": "decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio",
+        "B": "Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira",
+        "C": "é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro",
+        "D": "permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional"
+      },
+      "answer": "A",
+      "explanation": "Alavancagem Financeira: decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio."
+    },
+    {
+      "id": 2,
+      "q": "Qual é a interpretação mais adequada ao utilizar Alavancagem Financeira em uma análise?",
+      "options": {
+        "A": "Usar Alavancagem Financeira de acordo com sua finalidade: decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio.",
+        "B": "Interpretar Alavancagem Financeira sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Alavancagem Financeira apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio."
+    },
+    {
+      "id": 3,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente GAF?",
+      "options": {
+        "A": "Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira",
+        "B": "decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional",
+        "C": "variam em função do volume de atividade e afetam diretamente a margem de contribuição",
+        "D": "é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero"
+      },
+      "answer": "A",
+      "explanation": "GAF: Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira."
+    },
+    {
+      "id": 4,
+      "q": "Qual é a interpretação mais adequada ao utilizar GAF em uma análise?",
+      "options": {
+        "A": "Usar GAF de acordo com sua finalidade: Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira.",
+        "B": "Usar GAF apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar GAF sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira."
+    },
+    {
+      "id": 5,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Alavancagem Operacional?",
+      "options": {
+        "A": "decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira",
+        "B": "Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas",
+        "C": "decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional",
+        "D": "ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado"
+      },
+      "answer": "C",
+      "explanation": "Alavancagem Operacional: decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional."
+    },
+    {
+      "id": 6,
+      "q": "Qual é a interpretação mais adequada ao utilizar Alavancagem Operacional em uma análise?",
+      "options": {
+        "A": "Usar Alavancagem Operacional apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Alavancagem Operacional de acordo com sua finalidade: decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional.",
+        "D": "Interpretar Alavancagem Operacional sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional."
+    },
+    {
+      "id": 7,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente GAO?",
+      "options": {
+        "A": "considera também a remuneração mínima desejada do capital ou lucro-alvo",
+        "B": "quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros",
+        "C": "Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas",
+        "D": "combina os efeitos das alavancagens operacional e financeira"
+      },
+      "answer": "C",
+      "explanation": "GAO: Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas."
+    },
+    {
+      "id": 8,
+      "q": "Qual é a interpretação mais adequada ao utilizar GAO em uma análise?",
+      "options": {
+        "A": "Usar GAO de acordo com sua finalidade: Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar GAO sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar GAO apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas."
+    },
+    {
+      "id": 9,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Alavancagem Total?",
+      "options": {
+        "A": "combina os efeitos das alavancagens operacional e financeira",
+        "B": "é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro",
+        "C": "permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional",
+        "D": "usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos"
+      },
+      "answer": "A",
+      "explanation": "Alavancagem Total: combina os efeitos das alavancagens operacional e financeira."
+    },
+    {
+      "id": 10,
+      "q": "Qual é a interpretação mais adequada ao utilizar Alavancagem Total em uma análise?",
+      "options": {
+        "A": "Usar Alavancagem Total de acordo com sua finalidade: combina os efeitos das alavancagens operacional e financeira.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Alavancagem Total apenas como substituto de todas as demais análises financeiras.",
+        "D": "Interpretar Alavancagem Total sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, combina os efeitos das alavancagens operacional e financeira."
+    },
+    {
+      "id": 11,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Margem de Contribuição?",
+      "options": {
+        "A": "é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro",
+        "B": "variam em função do volume de atividade e afetam diretamente a margem de contribuição",
+        "C": "o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável",
+        "D": "é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero"
+      },
+      "answer": "A",
+      "explanation": "Margem de Contribuição: é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro."
+    },
+    {
+      "id": 12,
+      "q": "Qual é a interpretação mais adequada ao utilizar Margem de Contribuição em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Interpretar Margem de Contribuição sem comparar períodos, contexto ou outras informações.",
+        "C": "Usar Margem de Contribuição de acordo com sua finalidade: é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro.",
+        "D": "Usar Margem de Contribuição apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro."
+    },
+    {
+      "id": 13,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Ponto de Equilíbrio Contábil?",
+      "options": {
+        "A": "é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero",
+        "B": "decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira",
+        "C": "ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado",
+        "D": "decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio"
+      },
+      "answer": "A",
+      "explanation": "Ponto de Equilíbrio Contábil: é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero."
+    },
+    {
+      "id": 14,
+      "q": "Qual é a interpretação mais adequada ao utilizar Ponto de Equilíbrio Contábil em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Ponto de Equilíbrio Contábil de acordo com sua finalidade: é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero.",
+        "C": "Interpretar Ponto de Equilíbrio Contábil sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Ponto de Equilíbrio Contábil apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero."
+    },
+    {
+      "id": 15,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Ponto de Equilíbrio Financeiro?",
+      "options": {
+        "A": "considera também a remuneração mínima desejada do capital ou lucro-alvo",
+        "B": "ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado",
+        "C": "quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros",
+        "D": "Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira"
+      },
+      "answer": "B",
+      "explanation": "Ponto de Equilíbrio Financeiro: ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado."
+    },
+    {
+      "id": 16,
+      "q": "Qual é a interpretação mais adequada ao utilizar Ponto de Equilíbrio Financeiro em uma análise?",
+      "options": {
+        "A": "Usar Ponto de Equilíbrio Financeiro de acordo com sua finalidade: ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado.",
+        "B": "Interpretar Ponto de Equilíbrio Financeiro sem comparar períodos, contexto ou outras informações.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Usar Ponto de Equilíbrio Financeiro apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado."
+    },
+    {
+      "id": 17,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Ponto de Equilíbrio Econômico?",
+      "options": {
+        "A": "usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos",
+        "B": "considera também a remuneração mínima desejada do capital ou lucro-alvo",
+        "C": "permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional",
+        "D": "decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional"
+      },
+      "answer": "B",
+      "explanation": "Ponto de Equilíbrio Econômico: considera também a remuneração mínima desejada do capital ou lucro-alvo."
+    },
+    {
+      "id": 18,
+      "q": "Qual é a interpretação mais adequada ao utilizar Ponto de Equilíbrio Econômico em uma análise?",
+      "options": {
+        "A": "Usar Ponto de Equilíbrio Econômico apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Ponto de Equilíbrio Econômico sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Ponto de Equilíbrio Econômico de acordo com sua finalidade: considera também a remuneração mínima desejada do capital ou lucro-alvo."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, considera também a remuneração mínima desejada do capital ou lucro-alvo."
+    },
+    {
+      "id": 19,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Custos Fixos?",
+      "options": {
+        "A": "variam em função do volume de atividade e afetam diretamente a margem de contribuição",
+        "B": "o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável",
+        "C": "permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional",
+        "D": "Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas"
+      },
+      "answer": "C",
+      "explanation": "Custos Fixos: permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional."
+    },
+    {
+      "id": 20,
+      "q": "Qual é a interpretação mais adequada ao utilizar Custos Fixos em uma análise?",
+      "options": {
+        "A": "Usar Custos Fixos apenas como substituto de todas as demais análises financeiras.",
+        "B": "Usar Custos Fixos de acordo com sua finalidade: permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar Custos Fixos sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional."
+    },
+    {
+      "id": 21,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Custos Variáveis?",
+      "options": {
+        "A": "variam em função do volume de atividade e afetam diretamente a margem de contribuição",
+        "B": "combina os efeitos das alavancagens operacional e financeira",
+        "C": "decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira",
+        "D": "decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio"
+      },
+      "answer": "A",
+      "explanation": "Custos Variáveis: variam em função do volume de atividade e afetam diretamente a margem de contribuição."
+    },
+    {
+      "id": 22,
+      "q": "Qual é a interpretação mais adequada ao utilizar Custos Variáveis em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Custos Variáveis apenas como substituto de todas as demais análises financeiras.",
+        "C": "Usar Custos Variáveis de acordo com sua finalidade: variam em função do volume de atividade e afetam diretamente a margem de contribuição.",
+        "D": "Interpretar Custos Variáveis sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, variam em função do volume de atividade e afetam diretamente a margem de contribuição."
+    },
+    {
+      "id": 23,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Modelo DuPont?",
+      "options": {
+        "A": "Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira",
+        "B": "é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro",
+        "C": "quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros",
+        "D": "decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira"
+      },
+      "answer": "D",
+      "explanation": "Modelo DuPont: decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira."
+    },
+    {
+      "id": 24,
+      "q": "Qual é a interpretação mais adequada ao utilizar Modelo DuPont em uma análise?",
+      "options": {
+        "A": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "B": "Usar Modelo DuPont de acordo com sua finalidade: decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira.",
+        "C": "Interpretar Modelo DuPont sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Modelo DuPont apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "B",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira."
+    },
+    {
+      "id": 25,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Risco da Alavancagem?",
+      "options": {
+        "A": "decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional",
+        "B": "é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero",
+        "C": "usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos",
+        "D": "quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros"
+      },
+      "answer": "D",
+      "explanation": "Risco da Alavancagem: quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros."
+    },
+    {
+      "id": 26,
+      "q": "Qual é a interpretação mais adequada ao utilizar Risco da Alavancagem em uma análise?",
+      "options": {
+        "A": "Usar Risco da Alavancagem apenas como substituto de todas as demais análises financeiras.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Interpretar Risco da Alavancagem sem comparar períodos, contexto ou outras informações.",
+        "D": "Usar Risco da Alavancagem de acordo com sua finalidade: quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros."
+      },
+      "answer": "D",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros."
+    },
+    {
+      "id": 27,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Decisão Custo-Volume-Lucro?",
+      "options": {
+        "A": "o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável",
+        "B": "Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas",
+        "C": "ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado",
+        "D": "usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos"
+      },
+      "answer": "D",
+      "explanation": "Decisão Custo-Volume-Lucro: usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos."
+    },
+    {
+      "id": 28,
+      "q": "Qual é a interpretação mais adequada ao utilizar Decisão Custo-Volume-Lucro em uma análise?",
+      "options": {
+        "A": "Usar Decisão Custo-Volume-Lucro de acordo com sua finalidade: usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos.",
+        "B": "Usar Decisão Custo-Volume-Lucro apenas como substituto de todas as demais análises financeiras.",
+        "C": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "D": "Interpretar Decisão Custo-Volume-Lucro sem comparar períodos, contexto ou outras informações."
+      },
+      "answer": "A",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos."
+    },
+    {
+      "id": 29,
+      "q": "Na Alavancagem, Ponto de Equilíbrio e DuPont, qual alternativa descreve corretamente Capacidade Operacional?",
+      "options": {
+        "A": "decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio",
+        "B": "considera também a remuneração mínima desejada do capital ou lucro-alvo",
+        "C": "o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável",
+        "D": "combina os efeitos das alavancagens operacional e financeira"
+      },
+      "answer": "C",
+      "explanation": "Capacidade Operacional: o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável."
+    },
+    {
+      "id": 30,
+      "q": "Qual é a interpretação mais adequada ao utilizar Capacidade Operacional em uma análise?",
+      "options": {
+        "A": "Interpretar Capacidade Operacional sem comparar períodos, contexto ou outras informações.",
+        "B": "Concluir automaticamente que qualquer valor mais alto sempre representa situação melhor.",
+        "C": "Usar Capacidade Operacional de acordo com sua finalidade: o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável.",
+        "D": "Usar Capacidade Operacional apenas como substituto de todas as demais análises financeiras."
+      },
+      "answer": "C",
+      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável."
+    }
+  ],
+  "essays": [
+    {
+      "id": 1,
+      "q": "Explique o conceito de Alavancagem Financeira e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Alavancagem Financeira decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 2,
+      "q": "Explique o conceito de GAF e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "GAF Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 3,
+      "q": "Explique o conceito de Alavancagem Operacional e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Alavancagem Operacional decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 4,
+      "q": "Explique o conceito de GAO e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "GAO Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 5,
+      "q": "Explique o conceito de Alavancagem Total e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Alavancagem Total combina os efeitos das alavancagens operacional e financeira. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 6,
+      "q": "Explique o conceito de Margem de Contribuição e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Margem de Contribuição é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 7,
+      "q": "Explique o conceito de Ponto de Equilíbrio Contábil e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Ponto de Equilíbrio Contábil é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 8,
+      "q": "Explique o conceito de Ponto de Equilíbrio Financeiro e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Ponto de Equilíbrio Financeiro ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 9,
+      "q": "Explique o conceito de Ponto de Equilíbrio Econômico e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Ponto de Equilíbrio Econômico considera também a remuneração mínima desejada do capital ou lucro-alvo. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 10,
+      "q": "Explique o conceito de Custos Fixos e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Custos Fixos permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 11,
+      "q": "Explique o conceito de Custos Variáveis e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Custos Variáveis variam em função do volume de atividade e afetam diretamente a margem de contribuição. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 12,
+      "q": "Explique o conceito de Modelo DuPont e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Modelo DuPont decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 13,
+      "q": "Explique o conceito de Risco da Alavancagem e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Risco da Alavancagem quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 14,
+      "q": "Explique o conceito de Decisão Custo-Volume-Lucro e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Decisão Custo-Volume-Lucro usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    },
+    {
+      "id": 15,
+      "q": "Explique o conceito de Capacidade Operacional e indique por que ele é relevante na análise econômico-financeira.",
+      "answer": "Capacidade Operacional o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável. Sua relevância está em transformar dados contábeis ou operacionais em informação útil para avaliação, comparação e tomada de decisão. A interpretação deve considerar o período analisado, o setor, a estratégia da empresa e a relação com outros indicadores, evitando conclusões isoladas."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "O que é Alavancagem Financeira?",
+      "back": "Alavancagem Financeira decorre do uso de capital de terceiros com o objetivo de ampliar o retorno do capital próprio."
+    },
+    {
+      "id": 2,
+      "front": "O que é GAF?",
+      "back": "GAF Grau de Alavancagem Financeira indica a sensibilidade do retorno dos proprietários às alterações decorrentes da estrutura financeira."
+    },
+    {
+      "id": 3,
+      "front": "O que é Alavancagem Operacional?",
+      "back": "Alavancagem Operacional decorre da presença de custos e despesas operacionais fixas e amplia o efeito das variações de vendas sobre o resultado operacional."
+    },
+    {
+      "id": 4,
+      "front": "O que é GAO?",
+      "back": "GAO Grau de Alavancagem Operacional mede a sensibilidade do lucro operacional a mudanças no nível de vendas."
+    },
+    {
+      "id": 5,
+      "front": "O que é Alavancagem Total?",
+      "back": "Alavancagem Total combina os efeitos das alavancagens operacional e financeira."
+    },
+    {
+      "id": 6,
+      "front": "O que é Margem de Contribuição?",
+      "back": "Margem de Contribuição é a parcela da receita que resta após custos e despesas variáveis para cobrir gastos fixos e formar lucro."
+    },
+    {
+      "id": 7,
+      "front": "O que é Ponto de Equilíbrio Contábil?",
+      "back": "Ponto de Equilíbrio Contábil é o nível de atividade em que receitas totais igualam custos e despesas totais, resultando em lucro contábil zero."
+    },
+    {
+      "id": 8,
+      "front": "O que é Ponto de Equilíbrio Financeiro?",
+      "back": "Ponto de Equilíbrio Financeiro ajusta o ponto de equilíbrio para considerar desembolsos de caixa e excluir itens sem efeito financeiro imediato, conforme o critério adotado."
+    },
+    {
+      "id": 9,
+      "front": "O que é Ponto de Equilíbrio Econômico?",
+      "back": "Ponto de Equilíbrio Econômico considera também a remuneração mínima desejada do capital ou lucro-alvo."
+    },
+    {
+      "id": 10,
+      "front": "O que é Custos Fixos?",
+      "back": "Custos Fixos permanecem constantes dentro de determinada faixa relevante de atividade e elevam a alavancagem operacional."
+    },
+    {
+      "id": 11,
+      "front": "O que é Custos Variáveis?",
+      "back": "Custos Variáveis variam em função do volume de atividade e afetam diretamente a margem de contribuição."
+    },
+    {
+      "id": 12,
+      "front": "O que é Modelo DuPont?",
+      "back": "Modelo DuPont decompõe o retorno sobre o patrimônio em componentes ligados a margem, giro e estrutura financeira."
+    },
+    {
+      "id": 13,
+      "front": "O que é Risco da Alavancagem?",
+      "back": "Risco da Alavancagem quanto maior a alavancagem, maior pode ser a volatilidade dos resultados diante de mudanças em vendas ou custos financeiros."
+    },
+    {
+      "id": 14,
+      "front": "O que é Decisão Custo-Volume-Lucro?",
+      "back": "Decisão Custo-Volume-Lucro usa margem de contribuição e ponto de equilíbrio para apoiar preço, volume e estrutura de custos."
+    },
+    {
+      "id": 15,
+      "front": "O que é Capacidade Operacional?",
+      "back": "Capacidade Operacional o ponto de equilíbrio deve ser comparado à capacidade produtiva para avaliar se a meta de vendas é viável."
+    }
+  ]
+}
