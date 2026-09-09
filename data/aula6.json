@@ -12,7 +12,7 @@
         "D": "é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros"
       },
       "answer": "A",
-      "explanation": "Análise Discriminante: é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores."
+      "explanation": "A justificativa está no funcionamento de Análise Discriminante: ela combina várias características simultaneamente para separar observações em grupos com perfis estatisticamente distintos. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
         "D": "Usar Análise Discriminante apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "B",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é técnica estatística utilizada para classificar empresas em grupos a partir de combinações de indicadores."
+      "explanation": "A justificativa está no funcionamento de Análise Discriminante: ela combina várias características simultaneamente para separar observações em grupos com perfis estatisticamente distintos. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 3,
@@ -36,7 +36,7 @@
         "D": "é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros"
       },
       "answer": "B",
-      "explanation": "Modelo de Altman: utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore."
+      "explanation": "A justificativa está no funcionamento de Modelo de Altman: o modelo combina indicadores com pesos estatísticos em um escore porque um único índice isolado costuma ser insuficiente para avaliar risco de insolvência. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 4,
@@ -48,7 +48,7 @@
         "D": "Interpretar Modelo de Altman sem comparar períodos, contexto ou outras informações."
       },
       "answer": "B",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore."
+      "explanation": "A justificativa está no funcionamento de Modelo de Altman: o modelo combina indicadores com pesos estatísticos em um escore porque um único índice isolado costuma ser insuficiente para avaliar risco de insolvência. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 5,
@@ -60,7 +60,7 @@
         "D": "evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros"
       },
       "answer": "C",
-      "explanation": "Modelo de Kanitz: é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros."
+      "explanation": "A justificativa está no funcionamento de Modelo de Kanitz: a previsão de insolvência melhora quando diferentes indicadores econômico-financeiros são analisados em conjunto, e não separadamente. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 6,
@@ -72,7 +72,7 @@
         "D": "Usar Modelo de Kanitz apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "C",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é um modelo brasileiro de previsão de insolvência baseado em indicadores econômico-financeiros."
+      "explanation": "A justificativa está no funcionamento de Modelo de Kanitz: a previsão de insolvência melhora quando diferentes indicadores econômico-financeiros são analisados em conjunto, e não separadamente. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 7,
@@ -84,7 +84,7 @@
         "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
       },
       "answer": "A",
-      "explanation": "Modelo de Elizabetsky: é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis."
+      "explanation": "A justificativa está na finalidade de Modelo de Elizabetsky. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 8,
@@ -96,7 +96,7 @@
         "D": "Interpretar Modelo de Elizabetsky sem comparar períodos, contexto ou outras informações."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis."
+      "explanation": "A justificativa está na finalidade de Modelo de Elizabetsky. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 9,
@@ -108,7 +108,7 @@
         "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
       },
       "answer": "D",
-      "explanation": "Modelo de Matias: é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência."
+      "explanation": "A justificativa está na finalidade de Modelo de Matias. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 10,
@@ -120,7 +120,7 @@
         "D": "Interpretar Modelo de Matias sem comparar períodos, contexto ou outras informações."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência."
+      "explanation": "A justificativa está na finalidade de Modelo de Matias. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 11,
@@ -132,7 +132,7 @@
         "D": "estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta"
       },
       "answer": "A",
-      "explanation": "Modelo de Pereira da Silva: é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros."
+      "explanation": "A justificativa está na finalidade de Modelo de Pereira da Silva. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 12,
@@ -144,7 +144,7 @@
         "D": "Usar Modelo de Pereira da Silva apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, é uma abordagem de previsão de insolvência baseada em análise de indicadores econômico-financeiros."
+      "explanation": "A justificativa está na finalidade de Modelo de Pereira da Silva. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 13,
@@ -156,7 +156,7 @@
         "D": "estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta"
       },
       "answer": "D",
-      "explanation": "Previsão de Insolvência: estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
+      "explanation": "A justificativa está no funcionamento de Previsão de Insolvência: deterioração de liquidez, endividamento e rentabilidade pode aparecer antes da incapacidade de pagamento, permitindo avaliar o risco de forma antecipada. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 14,
@@ -168,7 +168,7 @@
         "D": "Usar Previsão de Insolvência de acordo com sua finalidade: estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
       },
       "answer": "D",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, estima a probabilidade ou risco de incapacidade de cumprir obrigações e deve ser usada como apoio, não como certeza absoluta."
+      "explanation": "A justificativa está no funcionamento de Previsão de Insolvência: deterioração de liquidez, endividamento e rentabilidade pode aparecer antes da incapacidade de pagamento, permitindo avaliar o risco de forma antecipada. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 15,
@@ -180,7 +180,7 @@
         "D": "evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade"
       },
       "answer": "D",
-      "explanation": "DFC Operacional: evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade."
+      "explanation": "A justificativa está no funcionamento de DFC Operacional: o caixa operacional mostra se a atividade principal consegue gerar recursos suficientes sem depender continuamente de empréstimos ou venda de ativos. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 16,
@@ -192,7 +192,7 @@
         "D": "Interpretar DFC Operacional sem comparar períodos, contexto ou outras informações."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia fluxos de caixa relacionados às principais atividades geradoras de receita da entidade."
+      "explanation": "A justificativa está no funcionamento de DFC Operacional: o caixa operacional mostra se a atividade principal consegue gerar recursos suficientes sem depender continuamente de empréstimos ou venda de ativos. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 17,
@@ -204,7 +204,7 @@
         "D": "evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade"
       },
       "answer": "B",
-      "explanation": "DFC Investimento: evidencia aquisições e alienações de ativos de longo prazo e outros investimentos."
+      "explanation": "A justificativa está no funcionamento de DFC Investimento: compras e vendas de ativos de longo prazo revelam como a empresa está aplicando ou recuperando recursos destinados à sua capacidade futura. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 18,
@@ -216,7 +216,7 @@
         "D": "Usar DFC Investimento apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia aquisições e alienações de ativos de longo prazo e outros investimentos."
+      "explanation": "A justificativa está no funcionamento de DFC Investimento: compras e vendas de ativos de longo prazo revelam como a empresa está aplicando ou recuperando recursos destinados à sua capacidade futura. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 19,
@@ -228,7 +228,7 @@
         "D": "deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente"
       },
       "answer": "C",
-      "explanation": "DFC Financiamento: evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade."
+      "explanation": "A justificativa está no funcionamento de DFC Financiamento: captação, amortização de dívidas e movimentações com sócios explicam como a estrutura de capital altera o caixa. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 20,
@@ -240,7 +240,7 @@
         "D": "Usar DFC Financiamento apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia alterações no capital próprio e nos empréstimos e financiamentos da entidade."
+      "explanation": "A justificativa está no funcionamento de DFC Financiamento: captação, amortização de dívidas e movimentações com sócios explicam como a estrutura de capital altera o caixa. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 21,
@@ -252,7 +252,7 @@
         "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
       },
       "answer": "A",
-      "explanation": "DMPL: demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período."
+      "explanation": "A justificativa está no funcionamento de DMPL: as mutações das contas do patrimônio líquido mostram como lucros, dividendos, reservas e aportes alteraram a participação dos proprietários. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 22,
@@ -264,7 +264,7 @@
         "D": "Interpretar DMPL sem comparar períodos, contexto ou outras informações."
       },
       "answer": "B",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, demonstra as alterações ocorridas nas contas do patrimônio líquido durante o período."
+      "explanation": "A justificativa está no funcionamento de DMPL: as mutações das contas do patrimônio líquido mostram como lucros, dividendos, reservas e aportes alteraram a participação dos proprietários. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 23,
@@ -276,7 +276,7 @@
         "D": "utiliza combinação ponderada de indicadores financeiros para estimar risco de insolvência por meio de um escore"
       },
       "answer": "B",
-      "explanation": "DVA: evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros."
+      "explanation": "A justificativa está no funcionamento de DVA: a riqueza criada pela entidade pode ser identificada e depois distribuída entre empregados, governo, financiadores, acionistas e a própria empresa. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 24,
@@ -288,7 +288,7 @@
         "D": "Interpretar DVA sem comparar períodos, contexto ou outras informações."
       },
       "answer": "C",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, evidencia a riqueza gerada e como ela foi distribuída entre empregados, governo, financiadores e proprietários, entre outros."
+      "explanation": "A justificativa está no funcionamento de DVA: a riqueza criada pela entidade pode ser identificada e depois distribuída entre empregados, governo, financiadores, acionistas e a própria empresa. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 25,
@@ -300,7 +300,7 @@
         "D": "relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa"
       },
       "answer": "C",
-      "explanation": "Potencial de Gerar Riqueza do Ativo: relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza."
+      "explanation": "A justificativa está na finalidade de Potencial de Gerar Riqueza do Ativo. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 26,
@@ -312,7 +312,7 @@
         "D": "Usar Potencial de Gerar Riqueza do Ativo apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "B",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona valor adicionado com ativos para avaliar a capacidade de geração de riqueza."
+      "explanation": "A justificativa está na finalidade de Potencial de Gerar Riqueza do Ativo. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 27,
@@ -324,7 +324,7 @@
         "D": "é um modelo de previsão de insolvência desenvolvido a partir de relações entre indicadores contábeis"
       },
       "answer": "C",
-      "explanation": "Valor Adicionado per capita: relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa."
+      "explanation": "A justificativa está na finalidade de Valor Adicionado per capita. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
         "D": "Usar Valor Adicionado per capita apenas como substituto de todas as demais análises financeiras."
       },
       "answer": "A",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, relaciona valor adicionado à quantidade de pessoas consideradas no indicador, permitindo avaliar riqueza gerada por pessoa."
+      "explanation": "A justificativa está na finalidade de Valor Adicionado per capita. Esse conceito deve ser interpretado pelo efeito que produz na análise e pela relação entre os elementos que ele considera. No contexto da questão, essa lógica é compatível com a alternativa correta; as demais opções deslocam o conceito para uma finalidade diferente ou incompleta."
     },
     {
       "id": 29,
@@ -348,7 +348,7 @@
         "D": "é um modelo brasileiro que combina variáveis financeiras para avaliar risco de insolvência"
       },
       "answer": "C",
-      "explanation": "Parecer Econômico-Financeiro: deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
+      "explanation": "A justificativa está no funcionamento de Parecer Econômico-Financeiro: uma conclusão útil depende da leitura conjunta dos indicadores, das tendências e do contexto, porque nenhum índice isolado representa toda a situação da empresa. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     },
     {
       "id": 30,
@@ -360,7 +360,7 @@
         "D": "Usar Parecer Econômico-Financeiro de acordo com sua finalidade: deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
       },
       "answer": "D",
-      "explanation": "O indicador ou conceito deve ser interpretado conforme sua finalidade e em conjunto com o contexto. Neste caso, deve sintetizar evidências, indicadores, limitações e conclusões de maneira técnica e coerente."
+      "explanation": "A justificativa está no funcionamento de Parecer Econômico-Financeiro: uma conclusão útil depende da leitura conjunta dos indicadores, das tendências e do contexto, porque nenhum índice isolado representa toda a situação da empresa. Por isso, ao analisar a questão, o importante é reconhecer essa relação prática e não apenas memorizar a definição do termo."
     }
   ],
   "essays": [

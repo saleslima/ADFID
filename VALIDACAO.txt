@@ -5,3 +5,10 @@ Aula 4: objetivas=30 dissertativas=15 flashcards=15
 Aula 5: objetivas=30 dissertativas=15 flashcards=15
 Aula 6: objetivas=30 dissertativas=15 flashcards=15
 TOTAL: objetivas=180 dissertativas=90 flashcards=90
+
+
+AJUSTE v1.0.1
+- “Detalhes da resposta” não repete mais a letra/resposta correta.
+- O painel agora exibe uma justificativa explicativa do conceito.
+- Explicações das 180 questões objetivas foram revisadas para formato de justificativa.
+- Cache do PWA atualizado para adfid-v1.0.1.
